@@ -11,13 +11,15 @@ Como a inteligência aritificial impacta nos estudos e na produtividade de empre
 ## Objetivo geral
 
 `[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+Inteligência artificial facilitar o estudo e analises, diferente de como era feito nos estudos de antigamente
+desde as primeiras pesquisas utilizando a internet como fonte de busca, ate os dias de hoje com inteligências artificiais avançadas
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
-4. `[opcional]`
+1. Compreender como funciona
+2. De onde veio a IA
+3. Como isso afeta os dias atuais
+4. Diferenças de estudo
 
 ## Quadro de alinhamento
 
