@@ -6,7 +6,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+Como a inteligência aritificial impacta nos estudos e na produtividade de empresas
 
 ## Objetivo geral
 
