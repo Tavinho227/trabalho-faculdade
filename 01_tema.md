@@ -22,8 +22,8 @@ Inteligência artificial no aprendizado moderno
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
+- Tema amplo: aprendizagem moderna com Inteligência artificial 
+- Objeto estudado: 
 - Contexto ou aplicação: `[preencher]`
 - Aspecto que será analisado: `[preencher]`
 - O que ficará fora do estudo: `[preencher]`
