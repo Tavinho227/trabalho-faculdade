@@ -18,7 +18,7 @@ Impacto social da tecnologia
 
 ### Tema delimitado
 
-Inteligência artificial no aprendizado moderno 
+A diferença do aprendizado moderno com uso da inteligência artificial
 
 ### Do tema amplo ao específico
 
@@ -26,7 +26,7 @@ Inteligência artificial no aprendizado moderno
 - Objeto estudado: inteligência artificial 
 - Contexto ou aplicação: em escolas, faculdades, trabalho, cotidiano
 - Aspecto que será analisado: aprendizado moderno
-- O que ficará fora do estudo: aprendizado sem inteligência artificial
+- O que ficará fora do estudo: uso banal da inteligência artificial 
 
 ### Justificativa
 
@@ -36,9 +36,9 @@ alem disso, possibilita metodos de ensino personalizados e mais eficientes.
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? parcialmente
+- O tema pode ser estudado no prazo? sim
+- O grupo possui acesso às fontes necessárias? sim
 
 ## Produto da etapa
 
