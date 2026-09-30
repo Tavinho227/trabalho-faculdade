@@ -31,6 +31,7 @@ Inteligência artificial no aprendizado moderno
 ### Justificativa
 
 É um tema que reflete nossa atualidade e como o aprendizado mudou com o passar do tempo com a chegada da Inteligência artificial
+facilitando a maneira como obtemos conhecimento e na soluções de problemas 
 
 ### Viabilidade
 
