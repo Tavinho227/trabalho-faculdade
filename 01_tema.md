@@ -30,7 +30,7 @@ Inteligência artificial no aprendizado moderno
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+É um tema que reflete nossa atualidade e como o aprendizado mudou com o passar do tempo com a chegada da Inteligência artificial
 
 ### Viabilidade
 
