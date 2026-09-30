@@ -18,7 +18,7 @@ Impacto social da tecnologia
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+Inteligência artificial no aprendizado moderno 
 
 ### Do tema amplo ao específico
 
