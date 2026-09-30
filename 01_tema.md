@@ -26,7 +26,7 @@ Inteligência artificial no aprendizado moderno
 - Objeto estudado: inteligência artificial 
 - Contexto ou aplicação: em escolas, faculdades, trabalho, cotidiano
 - Aspecto que será analisado: aprendizado moderno
-- O que ficará fora do estudo: 
+- O que ficará fora do estudo: aprendizado sem inteligência artificial
 
 ### Justificativa
 
