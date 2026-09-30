@@ -6,7 +6,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+diferença do aprendizado moderno com uso da inteligência artificial
 
 ## Pergunta de pesquisa
 
