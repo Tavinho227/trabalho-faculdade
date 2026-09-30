@@ -7,8 +7,8 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: Otávio Araújo, Richard Otavio
+- Data: 30/09/2026
 
 ## Preenchimento
 
