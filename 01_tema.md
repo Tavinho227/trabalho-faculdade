@@ -23,10 +23,10 @@ Inteligência artificial no aprendizado moderno
 ### Do tema amplo ao específico
 
 - Tema amplo: aprendizagem moderna com Inteligência artificial 
-- Objeto estudado: 
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Objeto estudado: inteligência artificial 
+- Contexto ou aplicação: em escolas, faculdades, trabalho, cotidiano
+- Aspecto que será analisado: aprendizado moderno
+- O que ficará fora do estudo: 
 
 ### Justificativa
 
