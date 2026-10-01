@@ -10,8 +10,8 @@ Analisar o impacto da Inteligência artificial nos estudos modernos se comparado
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
-Inteligência artificial facilitar o estudo e analises, diferente de como era feito nos estudos de antigamente
+
+Analisar como a Inteligência artificial facilita o estudo e analises, diferente de como era feito nos estudos de antigamente
 desde as primeiras pesquisas utilizando a internet como fonte de busca, ate os dias de hoje com inteligências artificiais avançadas
 
 ## Objetivos específicos
