@@ -25,9 +25,9 @@ desde as primeiras pesquisas utilizando a internet como fonte de busca, ate os d
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | Dependência do uso da IA
+| Objetivo geral | Compreender o impacto atual e suas diferenças
+| Resultado esperado | Compreensão do uso da IA 
 
 ## Produto da etapa
 
