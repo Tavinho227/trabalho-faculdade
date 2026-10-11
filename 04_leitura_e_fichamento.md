@@ -54,6 +54,99 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 Página: `[número]`
 
+* Referência completa: ``
+* DOI ou URL: `
+* Base de origem: `[preencher]`
+* Leitor responsável: `[preencher]`
+* Data da leitura: `09/10/2026`
+
+## Fichamento
+
+### Problema investigado
+
+`[preencher]`
+
+### Objetivo do estudo
+
+`[preencher]`
+
+### Método utilizado
+
+`[preencher]`
+
+### Contexto, amostra ou dados
+
+`[preencher]`
+
+### Principais resultados
+
+`[preencher]`
+
+### Limitações apresentadas
+
+`[preencher]`
+
+### Contribuição para o nosso artigo
+
+`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+
+### Comentário crítico
+
+`[Registre forças, fragilidades, concordâncias ou divergências.]`
+
+### Citação literal opcional
+
+> `[trecho exato]`
+
+Página: `[número]`
+
+* Referência completa: ``
+* DOI ou URL: `
+* Base de origem: `[preencher]`
+* Leitor responsável: `[preencher]`
+* Data da leitura: `09/10/2026`
+
+## Fichamento
+
+### Problema investigado
+
+`[preencher]`
+
+### Objetivo do estudo
+
+`[preencher]`
+
+### Método utilizado
+
+`[preencher]`
+
+### Contexto, amostra ou dados
+
+`[preencher]`
+
+### Principais resultados
+
+`[preencher]`
+
+### Limitações apresentadas
+
+`[preencher]`
+
+### Contribuição para o nosso artigo
+
+`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+
+### Comentário crítico
+
+`[Registre forças, fragilidades, concordâncias ou divergências.]`
+
+### Citação literal opcional
+
+> `[trecho exato]`
+
+Página: `[número]`
+
+
 ## Checklist
 
 * [ ] O artigo foi lido além do resumo.
