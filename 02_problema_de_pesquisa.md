@@ -6,19 +6,19 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-Aprendizado moderno com uso da inteligência artificial
+Aprendizado moderno com uso da inteligência artificial.
 
 ## Pergunta de pesquisa
 
- Como a inteligência artificial impacta os estudos e na produtividade
+ Como a inteligência artificial impacta os estudos e na produtividade.
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? os beneficios do uso da IA 
-- Qual é o objeto da pergunta? inteligência artificial 
-- Qual é o contexto ou recorte? uso da IA no processo de aprendizagem por estudantes 
-- A pergunta pode ser respondida por artigos científicos? sim, com base nos estudos
-- Por que essa pergunta é relevante? porque é algo que impacta diretamente em nossa sociedade atual
+- O que se deseja descobrir ou compreender? os benefícios e desafios do uso da IA na aprendizagem e produtividade. 
+- Qual é o objeto da pergunta? inteligência artificial. 
+- Qual é o contexto ou recorte? uso da IA no processo de aprendizagem por estudantes.
+- A pergunta pode ser respondida por artigos científicos? sim, com base nos estudos.
+- Por que essa pergunta é relevante? porque é algo que esta cada vez mais presente na sociedade e no ambiente educacional, moldando a forma de estudar e buscar informações. 
 
 ## Produto da etapa
 
