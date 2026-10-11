@@ -14,17 +14,17 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Área geral
 
-Impacto social da tecnologia 
+Impacto social da tecnologia. 
 
 ### Tema delimitado
 
-Aprendizado moderno com uso da inteligência artificial
+Aprendizado moderno com uso da inteligência artificial.
 
 ### Do tema amplo ao específico
 
 - Tema amplo: aprendizagem moderna com Inteligência artificial 
 - Objeto estudado: inteligência artificial 
-- Contexto ou aplicação: em escolas, faculdades, cotidiano
+- Contexto ou aplicação: estudos acadêmicos, cotidiano 
 - Aspecto que será analisado: aprendizado moderno
 - O que ficará fora do estudo: uso banal da inteligência artificial 
 
