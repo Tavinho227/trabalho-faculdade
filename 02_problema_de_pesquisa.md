@@ -10,7 +10,7 @@ Aprendizado moderno com uso da inteligência artificial
 
 ## Pergunta de pesquisa
 
- Como a inteligência artificial impacta nos estudos e na produtividade
+ Como a inteligência artificial impacta os estudos e na produtividade
 
 ## Verificação
 
