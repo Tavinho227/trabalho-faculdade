@@ -15,7 +15,7 @@ Analisar como a Inteligência artificial funciona e facilita o ensino moderno, c
 ## Objetivos específicos
 
 1. Compreender como funciona 
-2. De onde veio a IA
+2. Como surgiu a IA
 3. Como isso afeta o ensino
 4. Uso ético da IA
 
