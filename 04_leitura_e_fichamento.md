@@ -9,7 +9,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 ## Identificação do artigo
 
 * Referência completa: ``
-* DOI ou URL: `
+* DOI ou URL: `https://doi.org/10.47820/recima21.v4i5.3103`
 * Base de origem: `[preencher]`
 * Leitor responsável: `[preencher]`
 * Data da leitura: `09/10/2026`
