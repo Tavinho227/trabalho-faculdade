@@ -18,7 +18,7 @@ Impacto social da tecnologia
 
 ### Tema delimitado
 
-Aprendizado moderno com uso da inteligência artificial
+ Ensino moderno com uso da inteligência artificial
 
 ### Do tema amplo ao específico
 
