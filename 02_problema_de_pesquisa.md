@@ -10,7 +10,7 @@ Aprendizado moderno com uso da inteligência artificial.
 
 ## Pergunta de pesquisa
 
- Como a inteligência artificial influencia os estudos e a produtividade acadêmica. 
+ Como a inteligência artificial influência os estudos e a produtividade acadêmica.
 
 ## Verificação
 
