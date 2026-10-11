@@ -6,7 +6,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-diferença do aprendizado moderno com uso da inteligência artificial
+Aprendizado moderno com uso da inteligência artificial
 
 ## Pergunta de pesquisa
 
