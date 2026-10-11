@@ -55,7 +55,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 Página: `[número]`
 
 
-## Identificação do artigo
+## Identificação do artigo 2
 
 * Referência completa: ``
 * DOI ou URL: `
@@ -104,7 +104,7 @@ Página: `[número]`
 Página: `[número]`
 
 
-## Identificação do artigo
+## 𝙄𝙙𝙚𝙣𝙩𝙞𝙛𝙞𝙘𝙖𝙘̧𝙖̃𝙤 𝙙𝙤 𝙖𝙧𝙩𝙞𝙜𝙤 𝟯  
 
 * Referência completa: ``
 * DOI ou URL: `
