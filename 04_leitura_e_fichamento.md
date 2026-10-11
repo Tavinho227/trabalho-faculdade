@@ -39,7 +39,7 @@ SHIN, Jinnie; BULUT, Okan. Building an intelligent recommendation system for per
 SORTE, Paulo Boa et al. Inteligência artificial e escrita acadêmica: o que nos reserva o algoritmo GPT-3? Revista EntreLinguas, p. e021035-e021035, 2021. Disponível em https://periodicos.fclar.unesp.br/entrelinguas/article/download/15352/11411 Acesso em 07 abr. 2023.
 
 ZHAI, Xuesong et al. A Review of Artificial Intelligence (AI) in Education from 2010 to 2020. Complexity, v. 2021, p. 1-18, 2021. Disponível em https://www.hindawi.com/journals/complexity/2021/8812542/ Acesso em 07 abr. 2023.`
-* DOI ou URL: `https://doi.org/10.47820/recima21.v4i5.3103`  https://doi.org/10.51891/rease.v11i4.18748  https://revistas.ifmsabrazil.org/eventos/article/view/1346
+* DOI ou URL: `https://doi.org/10.47820/recima21.v4i5.3103`  https://reer.emnuvens.com.br/reer/article/view/852  https://revistas.ifmsabrazil.org/eventos/article/view/1346
 * Base de origem: `[preencher]`
 * Leitor responsável: `[preencher]`
 * Data da leitura: `09/10/2026`
