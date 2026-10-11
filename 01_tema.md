@@ -30,9 +30,9 @@ A diferença do aprendizado moderno com uso da inteligência artificial
 
 ### Justificativa
 
-É um tema que reflete nossa atualidade e como o aprendizado mudou com o passar do tempo com a chegada da Inteligência artificial
-facilitando a maneira como obtemos conhecimento e na soluções de problemas. Auxilia estudantes e profissionais a terem acesso rapido a informações e conhecimentos
-alem disso, possibilita metodos de ensino personalizados e mais eficientes. 
+É um tema que reflete nossa atualidade e como o aprendizado mudou com o passar do tempo com a chegada da Inteligência Artificial
+facilitando a maneira como obtemos conhecimento e na soluções de problemas. Auxilia estudantes e profissionais a terem acesso rápido a informações e conhecimentos.
+Alem disso, possibilita métodos de ensino personalizados e mais eficientes. 
 
 ### Viabilidade
 
