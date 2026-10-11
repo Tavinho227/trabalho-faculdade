@@ -104,7 +104,7 @@ Página: `[número]`
 Página: `[número]`
 
 
-## 𝙄𝙙𝙚𝙣𝙩𝙞𝙛𝙞𝙘𝙖𝙘̧𝙖̃𝙤 𝙙𝙤 𝙖𝙧𝙩𝙞𝙜𝙤 𝟯  
+## Identificação do artigo 3  
 
 * Referência completa: ``
 * DOI ou URL: `
