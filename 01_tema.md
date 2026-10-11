@@ -24,7 +24,7 @@ Impacto social da tecnologia
 
 - Tema amplo: aprendizagem moderna com Inteligência artificial 
 - Objeto estudado: inteligência artificial 
-- Contexto ou aplicação: em escolas, faculdades, trabalho, cotidiano
+- Contexto ou aplicação: em escolas, faculdades, cotidiano
 - Aspecto que será analisado: aprendizado moderno
 - O que ficará fora do estudo: uso banal da inteligência artificial 
 
