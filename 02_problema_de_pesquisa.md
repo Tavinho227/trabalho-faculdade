@@ -10,15 +10,15 @@ Aprendizado moderno com uso da inteligência artificial.
 
 ## Pergunta de pesquisa
 
- Como a inteligência artificial impacta os estudos e na produtividade.
+ Como a inteligência artificial influencia os estudos e a produtividade acadêmica. 
 
 ## Verificação
 
 - O que se deseja descobrir ou compreender? os benefícios e desafios do uso da IA na aprendizagem e produtividade. 
 - Qual é o objeto da pergunta? inteligência artificial. 
 - Qual é o contexto ou recorte? uso da IA no processo de aprendizagem por estudantes.
-- A pergunta pode ser respondida por artigos científicos? sim, com base nos estudos.
-- Por que essa pergunta é relevante? porque é algo que esta cada vez mais presente na sociedade e no ambiente educacional, moldando a forma como estudamos e buscamos informações.
+- A pergunta pode ser respondida por artigos científicos? sim, com base em estudos que investigam o tema. 
+- Por que essa pergunta é relevante? porque é algo que está cada vez mais presente na sociedade e no ambiente educacional, moldando a forma como estudamos e buscamos informações.
 
 ## Produto da etapa
 
