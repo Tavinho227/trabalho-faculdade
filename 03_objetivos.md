@@ -16,8 +16,8 @@ Analisar como a Inteligência artificial funciona e facilita o ensino moderno, c
 
 1. Compreender como funciona
 2. De onde veio a IA
-3. Como isso afeta os dias atuais
-4. Diferenças de estudo
+3. Como isso afeta o ensino
+4. Uso ético da IA
 
 ## Quadro de alinhamento
 
