@@ -25,7 +25,7 @@ desde as primeiras pesquisas utilizando a internet como fonte de busca, ate os d
 
 | Elemento | Texto |
 |---|---|
-| Problema | Dependência do uso da IA
+| Problema | Dependência e uso ético da IA
 | Objetivo geral | Compreender o impacto atual e suas diferenças
 | Resultado esperado | Compreensão do uso da IA 
 
