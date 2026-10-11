@@ -14,9 +14,9 @@ Aprendizado moderno com uso da inteligência artificial
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? Os beneficios do uso da IA 
-- Qual é o objeto da pergunta? Inteligência artificial 
-- Qual é o contexto ou recorte? Uso da IA no processo de aprendizagem por estudantes 
+- O que se deseja descobrir ou compreender? os beneficios do uso da IA 
+- Qual é o objeto da pergunta? inteligência artificial 
+- Qual é o contexto ou recorte? uso da IA no processo de aprendizagem por estudantes 
 - A pergunta pode ser respondida por artigos científicos? sim, com base nos estudos
 - Por que essa pergunta é relevante? porque é algo que impacta diretamente em nossa sociedade atual
 
