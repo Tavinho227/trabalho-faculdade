@@ -23,14 +23,14 @@ Aprendizado moderno com uso da inteligência artificial.
 ### Do tema amplo ao específico
 
 - Tema amplo: aprendizagem moderna com Inteligência artificial 
-- Objeto estudado: inteligência artificial 
-- Contexto ou aplicação: estudos acadêmicos, ensino moderno
-- Aspecto que será analisado: aprendizado moderno
-- O que ficará fora do estudo: uso banal da inteligência artificial 
+- Objeto estudado: inteligência artificial. 
+- Contexto ou aplicação: estudos acadêmicos, ensino moderno.
+- Aspecto que será analisado: aprendizado moderno.
+- O que ficará fora do estudo: uso da inteligência artificial que não esteja relacionado ao contexto educacional.
 
 ### Justificativa
 
-É um tema que reflete nossa atualidade e como o aprendizado mudou com o passar do tempo com a chegada da Inteligência Artificial
+É um tema que reflete nossa atualidade e como o aprendizado mudou com o passar do tempo com a chegada da inteligência artificial
 facilitando a maneira como obtemos conhecimento e na soluções de problemas. Auxilia estudantes e profissionais a terem acesso rápido a informações e conhecimentos.
 Alem disso, possibilita métodos de ensino personalizados e mais eficientes. 
 
