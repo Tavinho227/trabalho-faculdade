@@ -48,7 +48,7 @@ ZHAI, Xuesong et al. A Review of Artificial Intelligence (AI) in Education from 
 
 ### Problema investigado
 
-`[preencher]`
+`Quais as transformações que o uso da IA com foco em geração automática de texto traz para o processo de ensino e aprendizagem. `
 
 ### Objetivo do estudo
 
