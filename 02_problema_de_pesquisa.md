@@ -18,7 +18,7 @@ Aprendizado moderno com uso da inteligência artificial.
 - Qual é o objeto da pergunta? inteligência artificial. 
 - Qual é o contexto ou recorte? uso da IA no processo de aprendizagem por estudantes.
 - A pergunta pode ser respondida por artigos científicos? sim, com base nos estudos.
-- Por que essa pergunta é relevante? porque é algo que esta cada vez mais presente na sociedade e no ambiente educacional, moldando a forma de estudar e buscar informações. 
+- Por que essa pergunta é relevante? porque é algo que esta cada vez mais presente na sociedade e no ambiente educacional, moldando a forma como estudamos e buscamos informações.
 
 ## Produto da etapa
 
