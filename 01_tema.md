@@ -32,7 +32,7 @@ Aprendizado moderno com uso da inteligência artificial.
 
 É um tema que reflete nossa atualidade e como o aprendizado mudou com o passar do tempo com a chegada da inteligência artificial
 facilitando a maneira como obtemos conhecimento e na soluções de problemas. Auxilia estudantes a terem acesso rápido a informações e conhecimentos.
-Alem disso, possibilita métodos de ensino personalizados e mais eficientes. 
+Além disso, possibilita métodos de ensino personalizados e mais eficientes. 
 
 ### Viabilidade
 
