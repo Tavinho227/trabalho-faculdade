@@ -6,7 +6,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-Analisar o impacto da Inteligência artificial nos estudos modernos se comparado ao passado
+Analisar o impacto da Inteligência artificial nos estudos modernos
 
 ## Objetivo geral
 
