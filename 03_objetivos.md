@@ -10,9 +10,7 @@ Analisar o impacto da Inteligência artificial nos estudos modernos
 
 ## Objetivo geral
 
-
-Analisar como a Inteligência artificial facilita o estudo e analises, diferente de como era feito nos estudos de antigamente
-desde as primeiras pesquisas utilizando a internet como fonte de busca, ate os dias de hoje com inteligências artificiais avançadas
+Analisar como a Inteligência artificial funciona e facilita o ensino moderno, como também seus possíveis efeitos negativos
 
 ## Objetivos específicos
 
