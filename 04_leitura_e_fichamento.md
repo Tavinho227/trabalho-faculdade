@@ -40,7 +40,7 @@ SORTE, Paulo Boa et al. Inteligência artificial e escrita acadêmica: o que nos
 
 ZHAI, Xuesong et al. A Review of Artificial Intelligence (AI) in Education from 2010 to 2020. Complexity, v. 2021, p. 1-18, 2021. Disponível em https://www.hindawi.com/journals/complexity/2021/8812542/ Acesso em 07 abr. 2023.`
 * DOI ou URL: `https://doi.org/10.47820/recima21.v4i5.3103`
-* Base de origem: `[preencher]`
+* Base de origem: `Google acadêmico`
 * Leitor responsável: `Otávio Araújo`
 * Data da leitura: `09/10/2026`
 
