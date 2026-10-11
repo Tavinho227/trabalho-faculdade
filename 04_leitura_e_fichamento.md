@@ -12,7 +12,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * DOI ou URL: `[preencher]`
 * Base de origem: `[preencher]`
 * Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Data da leitura: `09/10/2026`
 
 ## Fichamento
 
