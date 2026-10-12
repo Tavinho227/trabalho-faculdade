@@ -139,7 +139,7 @@ Página: `[número]`
 * Referência completa: ``
 * DOI ou URL: `https://revistas.ifmsabrazil.org/eventos/article/view/1346`
 * Base de origem: `Google acadêmico`
-* Leitor responsável: `Otávio Araújo,Richard Otavio`
+* Leitor responsável: `Otávio Araújo, Richard Otavio`
 * Data da leitura: `10/10/2026`
 
 ## Fichamento
