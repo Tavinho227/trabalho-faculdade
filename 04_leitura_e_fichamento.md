@@ -48,7 +48,7 @@ ZHAI, Xuesong et al. A Review of Artificial Intelligence (AI) in Education from 
 
 ### Problema investigado
 
-`O estudo busca entender de qual maneira a inteligência artificial está transformando o dia a dia do processo de ensino e aprendizagem, principalmente em ferramentas focadas na geração de textos `
+`Buscam entender de qual maneira a inteligência artificial está transformando o dia a dia do processo de ensino e aprendizagem, principalmente em ferramentas focadas na geração de textos `
 
 ### Objetivo do estudo
 
