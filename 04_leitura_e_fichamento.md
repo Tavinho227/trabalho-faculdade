@@ -56,11 +56,11 @@ ZHAI, Xuesong et al. A Review of Artificial Intelligence (AI) in Education from 
 
 ### Método utilizado
 
-`Uma das limitações da pesquisa é que ela foi feita com apenas 96 estudantes, principalmente das áreas de Tecnologia da Informação e Engenharia. Por isso, os resultados podem não mostrar a realidade de todos os universitários. Além disso, o estudo considera a opinião dos alunos sobre o uso da inteligência artificial, e não apenas os efeitos dela na prática.`
+``
 
 ### Contexto, amostra ou dados
 
-`Esse estudo é importante para o nosso artigo porque mostra que a inteligência artificial pode ajudar bastante nos estudos, desde que seja usada da maneira certa. Ela pode facilitar o aprendizado, mas é importante que os alunos também busquem aprender por conta própria, desenvolvam suas ideias e não dependam totalmente dessa tecnologia.`
+``
 
 ### Principais resultados
 
@@ -117,15 +117,15 @@ Página: `[número]`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`Uma das limitações da pesquisa é que ela foi feita com apenas 96 estudantes, principalmente das áreas de Tecnologia da Informação e Engenharia. Por isso, os resultados podem não mostrar a realidade de todos os universitários. Além disso, o estudo considera a opinião dos alunos sobre o uso da inteligência artificial, e não apenas os efeitos dela na prática.`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`Esse estudo é importante para o nosso artigo porque mostra que a inteligência artificial pode ajudar bastante nos estudos, desde que seja usada da maneira certa. Ela pode facilitar o aprendizado, mas é importante que os alunos também busquem aprender por conta própria, desenvolvam suas ideias e não dependam totalmente dessa tecnologia.`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`Na minha opinião, esse estudo mostra que a inteligência artificial tem seus pontos positivos e negativos na educação. Ela ajuda bastante quando precisamos tirar dúvidas ou entender uma matéria mais difícil. Porém, se a gente depender dela para fazer tudo, acaba perdendo a oportunidade de aprender sozinho.`
 
 ### Citação literal opcional
 
