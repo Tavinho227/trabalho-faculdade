@@ -56,7 +56,7 @@ ZHAI, Xuesong et al. A Review of Artificial Intelligence (AI) in Education from 
 
 ### Método utilizado
 
-`O estudo foi realizado com uma revisão de literatura de forma sistemática, retrospectiva, narrativa, com abordagem de forma integral dos dados, com completa e exploratória dos artigos científicos.  `
+`O estudo foi realizado com uma revisão de literatura de forma sistemática, retrospectiva, narrativa, com abordagem de forma integral dos dados, com completa e exploratória dos artigos científicos.`
 
 ### Contexto, amostra ou dados
 
