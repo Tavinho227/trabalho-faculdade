@@ -90,7 +90,7 @@ Página: `[número]`
 * Referência completa: ``
 * DOI ou URL: `https://reer.emnuvens.com.br/reer/article/view/852`
 * Base de origem: `Google acadêmico`
-* Leitor responsável: `[preencher]`
+* Leitor responsável: `Richard Otavio`
 * Data da leitura: `10/10/2026`
 
 ## Fichamento
