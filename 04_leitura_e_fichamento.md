@@ -60,11 +60,11 @@ ZHAI, Xuesong et al. A Review of Artificial Intelligence (AI) in Education from 
 
 ### Contexto, amostra ou dados
 
-``
+`A busca por materiais foi do período de 2021 a 2023 nas plataformas Google Acadêmico, Periódicos CAPES e SciELO, procurando artigos em português e inglês. De um início com 1.640 trabalhos, foram filtrados seguindo os critérios e chegou se a uma seleção final de 15 artigos analisados a fundo.`
 
 ### Principais resultados
 
-`[preencher]`
+`O levantamento indica que a inteligência artificial realmente traz um ganho real na personalização do ensino, ajudando a adaptar o ritmo de estudo de cada aluno , melhorando o engajamento e seu desempenho. A análise de dados educacionais pelo algoritmo também ajudou os professores a ter uma visão mais clara sobre como aprimorar suas práticas de ensino. Em contrapartida, surgem alertas sobre a falta de transparência dos algoritmos, riscos à privacidade e a chance de desigualdades sociais. O principal no estudo é que a tecnologia deve ser usada apenas como uma ferramenta de apoio, sendo indispensável e de muita importância a presença do professor na condução das aulas.`
 
 ### Limitações apresentadas
 
@@ -72,11 +72,11 @@ ZHAI, Xuesong et al. A Review of Artificial Intelligence (AI) in Education from 
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`O artigo fornece um embasamento teórico consideravelmente atualizado, com dados de 2021 a 2023, que nos ajuda a defender o uso da tecnologia (IA) como um ferramenta muito útil na pedagogia, ao mesmo tempo que também traz argumentos sólidos sobre o uso ético da inteligência artificial e como o professor é indispensável no ensino e no auxílio do uso dessa ferramenta.`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`Nota-se uma `
 
 ### Citação literal opcional
 
