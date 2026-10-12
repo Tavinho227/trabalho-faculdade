@@ -97,7 +97,7 @@ Página: `[número]`
 
 ### Problema investigado
 
-`O estudo procura como a inteligência artificial está sendo utilizada pelos estudantes  e de que forma ela pode ajudar ou prejudicar a aprendizagem, o desempenho acadêmico e o desenvolvimento de habilidades.`
+`O estudo procura como a inteligência artificial está sendo utilizada pelos estudantes e de que forma ela pode ajudar ou prejudicar a aprendizagem, o desempenho acadêmico e o desenvolvimento de habilidades.`
 
 ### Objetivo do estudo
 
