@@ -91,7 +91,7 @@ Página: `[número]`
 * DOI ou URL: `https://reer.emnuvens.com.br/reer/article/view/852`
 * Base de origem: `[preencher]`
 * Leitor responsável: `[preencher]`
-* Data da leitura: `09/10/2026`
+* Data da leitura: `10/10/2026`
 
 ## Fichamento
 
