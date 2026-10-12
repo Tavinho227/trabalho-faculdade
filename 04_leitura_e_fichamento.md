@@ -52,7 +52,7 @@ ZHAI, Xuesong et al. A Review of Artificial Intelligence (AI) in Education from 
 
 ### Objetivo do estudo
 
-`[preencher]`
+`Realizar uma revisão sistemática da literatura querendo entender as mudanças, impactos e as perspectivas futuras da inteligência artificial na educação, com foco especial na produção automática de conteúdos textuais`
 
 ### Método utilizado
 
