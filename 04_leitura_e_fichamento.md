@@ -91,7 +91,7 @@ Página: `[número]`
 * DOI ou URL: `https://reer.emnuvens.com.br/reer/article/view/852`
 * Base de origem: `Google acadêmico`
 * Leitor responsável: `Richard Otavio`
-* Data da leitura: `10/10/2026`
+* Data da leitura: `09/10/2026`
 
 ## Fichamento
 
@@ -140,7 +140,7 @@ Página: `[número]`
 * DOI ou URL: `https://revistas.ifmsabrazil.org/eventos/article/view/1346`
 * Base de origem: `Google acadêmico`
 * Leitor responsável: `Otávio Araújo,Richard Otavio`
-* Data da leitura: `09/10/2026`
+* Data da leitura: `10/10/2026`
 
 ## Fichamento
 
