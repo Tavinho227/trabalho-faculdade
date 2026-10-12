@@ -101,19 +101,19 @@ Página: `[número]`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`O objetivo foi entender como os estudantes usam a inteligência artificial para ajudar nos estudos, de que forma ela facilita o aprendizado e quais cuidados precisam ter ao utilizá-la. Além disso, buscamos compreender se o uso dessas ferramentas pode ajudar os alunos a aprender mais ou acabar fazendo com que dependam demais da tecnologia para pensar e realizar seus trabalhos acadêmicos.`
 
 ### Método utilizado
 
-`[preencher]`
+`Os pesquisadores leram artigos sobre o tema e fizeram um questionário pelo Google Forms, respondido por 96 universitários, para saber como eles usam a inteligência artificial nos estudos e o que pensam sobre essa tecnologia.`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`A pesquisa foi feita com 96 universitários de diferentes áreas. A maioria estudava Tecnologia da Informação (43,8%) ou Engenharia (39,6%), enquanto os outros eram de cursos variados (16,7%). Um dos resultados que mais chamou a atenção foi que todos os participantes disseram utilizar o ChatGPT.`
 
 ### Principais resultados
 
-`[preencher]`
+`Os resultados mostraram que os estudantes gostam de usar a inteligência artificial porque ela facilita as pesquisas, ajuda a resolver exercícios e economiza tempo. Por outro lado, existe o receio de que, ao depender muito dessa tecnologia, os alunos acabem tendo mais dificuldade para pensar por conta própria, escrever e desenvolver suas próprias ideias.`
 
 ### Limitações apresentadas
 
