@@ -89,7 +89,7 @@ Página: `[número]`
 
 * Referência completa: ``
 * DOI ou URL: `https://reer.emnuvens.com.br/reer/article/view/852`
-* Base de origem: `[preencher]`
+* Base de origem: `Google acadêmico`
 * Leitor responsável: `[preencher]`
 * Data da leitura: `10/10/2026`
 
