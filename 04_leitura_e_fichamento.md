@@ -56,7 +56,7 @@ ZHAI, Xuesong et al. A Review of Artificial Intelligence (AI) in Education from 
 
 ### Método utilizado
 
-``
+`O autor fez um levantamento de pesquisas já publicadas sobre o tema e analisou todo esse material de uma forma qualitativa.`
 
 ### Contexto, amostra ou dados
 
