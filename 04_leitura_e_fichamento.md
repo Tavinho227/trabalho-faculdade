@@ -305,9 +305,9 @@ Willame Nogueira de Sena, Diane Jéssica Morais Amorim, INTELIGÊNCIA ARTIFICIAL
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> `A personalização do ensino é um dos pilares fundamentais dessa transformação, permitindo que cada aluno receba um suporte adaptado às suas necessidades individuais.`
 
-Página: `[número]`
+Página: ` 3 `
 
 
 
