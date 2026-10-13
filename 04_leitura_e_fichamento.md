@@ -239,9 +239,9 @@ ZAWACKI-RICHTER, O.; MARÍN, V. I.; BOND, M.; GOUVERNEUR, F. Systematic Review o
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> `Alguns estudantes mencionaram que o uso constante dela pode enfraquecer o pensamento crítico ou a capacidade de redigir de forma independente.`
 
-Página: `[número]`
+Página: `95`
 
 
 ## Identificação do artigo 3  
