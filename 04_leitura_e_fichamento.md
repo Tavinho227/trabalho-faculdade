@@ -247,7 +247,7 @@ Página: `[número]`
 ## Identificação do artigo 3  
 
 * Referência completa: ``
-* DOI ou URL: `https://revistas.ifmsabrazil.org/eventos/article/view/1346`
+* DOI ou URL: `https://doi.org/10.51891/rease.v10i7.14859`
 * Base de origem: `Google acadêmico`
 * Leitor responsável: `Otávio Araújo, Richard Otavio`
 * Data da leitura: `10/10/2026`
