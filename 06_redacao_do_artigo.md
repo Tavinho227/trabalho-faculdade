@@ -12,7 +12,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Palavras-chave
 
-`Inteligência artificial; [palavra 2]; [palavra 3]`
+`Inteligência artificial; Aprendizado; [palavra 3]`
 
 ## Introdução
 
