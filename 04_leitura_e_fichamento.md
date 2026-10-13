@@ -80,9 +80,9 @@ ZHAI, Xuesong et al. A Review of Artificial Intelligence (AI) in Education from 
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> `"É essencial que a inteligência artificial seja utilizada com cautela e em conjuntos com o conhecimento pedagógico dos profissionais da educação, sem que os professores sejam integralmente ou parcialmente substituídos, é preponderante que estes estejam à sala de aula para a condução do ensino aprendizagem>"`
 
-Página: `[número]`
+Página: `11`
 
 
 ## Identificação do artigo 2
