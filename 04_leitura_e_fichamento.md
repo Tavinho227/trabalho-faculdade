@@ -87,7 +87,117 @@ Página: `[número]`
 
 ## Identificação do artigo 2
 
-* Referência completa: ``
+* Referência completa: `ALMEIDA, L. B.; SILVA, M. R. Inteligência Artificial na Educação Superior: Desafios e Oportunidades. Revista Brasileira de Informática na Educação, v. 28, n. 2, p.123-138. 2020.
+
+AKGUN, S.; GREENHOW, C. Artificial Intelligence in Education: Addressing Ethical Concerns through Design. AI and Society, v. 4, n. 37, p.1123-1136. 2022.
+
+BAIDOO-ANU, D.; OWENS, O. A. L. Education in the Era of Generative Artificial Intelligence (AI): Understanding the Potential of Chatgpt in Promoting Teaching and Learning. SSRN Electronic Journal, p. 11, Jan. 2023.
+
+BARBOSA, A. L.; COSTA, P. S. A Utilização de Chatbots na Aprendizagem de Línguas Estrangeiras: Uma Análise da Percepção dos Estudantes Universitários. Anais do Simpósio Brasileiro de Informática na Educação, v. 31, n. 2, p.456-465. 2021.
+
+BAQUE, G. V. E.; ZAVALA, O., M. I.; MENDOZA, B.; RECALDE, V.; NEVARES, P. M. J.; CASTILLO, R. N. E.; BARRETO, Z. W. Percepciones Y Experiencias De Docentes Universitarios Sobre La Inteligencia Artificial: Transformación, Ética Y Desafíos En El USO Académico Por Estudiantes: Perceptions and Experiences of University Teachers on Artificial Intelligence: Transformation, Ethics and Challenges in Academic Use by Students. LATAM Revista Latinoamericana De Ciencias Sociales Y Humanidades, v. 5, n. 6, p.2763-2773. 2024.
+
+BASSI, R. E. Percepção dos Alunos de Ensino a Distância sobre o Ensino de IA na Graduação. Advances in Global Innovation & Technology, v. 2, n. 3, p.24-40. Jun. 2024.
+
+BARAC, M.; LÓPEZ, R. M. I. ¿Cómo Integra El Estudiantado Universitario La Ia En Sus Procesos De Aprendizaje? European Public & Social Innovation Review, v. 9, p.1-14, set. 2024.
+
+BRETAG, T.; HARPER, R.; BURTON, M.; ELLIS, C.; GREEN, M.; HAERINGEN, K.; SADDIQUI, S. Contract Cheating and Assessment Design: Exploring The Relationship. Assessment & Evaluation in Higher Education, v. 44, n. 5, p.676-691. 2019.
+
+CARVALHO, R. M.; FERREIRA, J. P. Ferramentas de Inteligência Artificial para Auxílio na Produção de Textos Acadêmicos: Uma Avaliação da Eficácia e Aceitação pelos Estudantes. Revista de Educação e Tecnologia, v. 15, n. 3, p. 210-225, 2022.
+
+CASTILLEJOS, L. B. Inteligencia artificial y los entornos personales de aprendizaje: atentos al uso adecuado de los recursos tecnológicos de los estudiantes universitarios. Educación, v. 31, n. 60, p.9-24. Jun. 2022.
+
+CAVALCANTE, J. A.; NAZÁRIO, F. F.; MALAGUETA, A. S.; LIBÓRIO, F., J. M. Explorando A Inteligência Artificial No Ensino Médio: Introdução À Ia Com Alunos Do 1º Utilizando a Plataforma Code.Org. Revista Ibero-Americana De Humanidades, Ciências E Educação, v. 9, n. 8, p.2364-2385. Sep. 2023.
+
+COPELAND, B. J. (2023). Artificial intelligence. Encyclopedia Britannica. Disponível em: <https://www.britannica.com/technology/artificial-intelligence>.
+
+DIAS, S. A.; OLIVEIRA, C. R. O Impacto da Inteligência Artificial na Avaliação da Aprendizagem no Ensino Superior: Uma Revisão Sistemática. Ensaio: Avaliação de Políticas Públicas Educacionais, v. 30, n. 115, p.345-360. 2022.
+
+FIGUEIREDO, L. O.; ZEM, L, A. M.; VALIDORIO, V. C.; MUSSIO, S. C. Desafios E Impactos Do Uso da Inteligência Artificial Na Educação. Educação Online, v. 18, n. 44, p.34-39. Nov. 2023.
+
+FLORIDI, L.; COWLS, J.; BELTRAMETTI, M.; CHAZERAND, P.; CLARK, M.; DIGNUM, V.; VAYENA, E. Ai4people an Ethical Framework for a Good Ai Society: Opportunities, Risks, Principles, and Recommendations. Minds and Machines, v. 28, p.689-707. 2018.
+
+GARCIA, M. A. Literatura e linguística na era da IA: assistência à escrita e o impacto na criatividade no ensino. Grau Zero - Revista de Crítica Cultural, Alagoinhas - BA: Fábrica de Letras - UNEB, v.12, n.2, p.57-77, 2024. DOI: 10.30620/gz.v12n2.p57. Disponível em: <https://revistas.uneb.br/index.php/grauzero/article/view/v12n2p57>.
+
+GOMES, L. F.; SANTOS, A. M. Plataformas de Aprendizagem Adaptativa Baseadas em Inteligência Artificial: Uma Análise Comparativa das Funcionalidades e Benefícios para os Estudantes. Revista Iberoamericana de Inteligência Artificial, v. 25, n. 1, p.78-93. 2021.
+
+GOMES, A. J. F.; VERÇOSA, B. F. M.; PINTO, C. R. S.; MOURA, C. C.; SILVA, C.; REIS, O. B. Potencializando A Aprendizagem Ativa Com Tecnologia De Ia. Revista Ibero-Americana De Humanidades, Ciências E Educação, v. 10, n. 8, p.3625-3631. Ago. 2024.
+
+HALAWEH, M. University students' perspectives towards using ChatGPT in higher education. International Journal of Education and Development Using Information and Communication Technology, v. 1, n. 19, p.120-134 2023.
+
+HOLMES, W.; BIALIK, M.; FADEL, C. Artificial Intelligence in Education. Center for Curriculum Redesign, 2019.
+
+JIMENES, J. L. E. Actitud De Los Estudiantes Universitarios De Educación Ante El Uso De La Inteligencia Artificial. Revistas Académicas Ciencia y Sociedad, v. 49, n. 2, p.3-17. Jun. 2024.
+
+JOHNNY, F. F. P., RAÚL, D. A.; ALDONZA, S. C. M.; LUIS, C. F. M.; JOHNNY, L. M. C.; DIANA, E. F. P. Uso De La Inteligencia Artificial En Estudiantes Universitarios. Ciência Latina Revista Científica Multidisciplinar, v. 7, n. 6, p.4458-4470. 2024.
+
+KRUMM, A. E.; MEANS, B.; BIENKOWSKI, M. A. Technology for Adaptive Assessment. Routledge, 2018.
+
+KOCHHANN, A. J.; BRITO, A. B. S.; STAHL, B. R.; BRITO, B. S.; MENEZES, C. V.; FERNANDES, I. S.; SILVA, J. P. A Incorporação Da Inteligência Artificial Na Rotina Do Estudante De Medicina. Contribuciones a Las Ciencias Sociales, v. 17, n. 8, p.1-10. Aug. 2024.
+
+LIMA, E. G.; PEREIRA, R. S. A. Utilização de Inteligência Artificial para a Detecção de Plágio em Trabalhos Acadêmicos: Uma Análise da Eficácia e Implicações Éticas. Revista Brasileira de Direito da Informática, v. 18, n. 2, p.156-170. 2020.
+
+LIMA, H. S.; VIANA, N. M. Benefício Ou Malefício? Análise Do Impacto Da Inteligência Artificial Para Os Acadêmicos De Ciências Contábeis. Revista Sociedade Científica, v. 7, n. 1, p.1480-1503. 2024.
+
+LUCKIN, R.; HOLMES, W., GRIFFITHS, M.; FORCIER, L. B. Intelligence Unleashed: An Argument for AI in Education. Pearson Education, 2016.
+
+MARTINS, V. A.; ROCHA, P. C. A. Inteligência Artificial como Ferramenta de Apoio à Pesquisa Científica: Uma Avaliação da Percepção dos Estudantes de Pós-Graduação. Ciência da Informação, v. 49, n. 3, p.289-304. 2021.
+
+MENA, R.; CRUZ, R., R.; SILVA-PAYRÓ, M. P. Percepción De La Inteligencia Artificial Por Estudiantes Universitarios Como Acompañante En El Proceso De Aprendizaje. Public & Social Innovation Review, v. 9, p.1-18. 2024.
+
+MENDES, F. R.; SILVEIRA, T. Q. A Utilização de Inteligência Artificial para a Personalização do Ensino no Ensino Superior: Uma Análise da Eficácia e Desafios. Revista Brasileira de Educação, v. 26, n. 2, p.1-18. 2021.
+
+MIDDLETON, H. Ethics In Higher Education: Navigating The Digital Age. Education And Information Technologies, v. 2, n. 24, p.1201-1212. 2019.
+
+MIRANDA, N. M.; OLIVEIRA, A. N.; ESPÍNDOLA, E. V. M. S.; FERREIRA, K. C. S.; BEZERRA, V. M. S. Inteligência Artificial E Educação: Desafios E Possibilidades. Revista Ilustração, v. 5, n. 3, p.183-190. 2024.
+
+MOLLER-ACUÑA, P. A.; VILLARROEL, G. A. C.; ROJAS-DÍAZ, P. J.; SUÁREZ, K. T. M. Inteligência Artificial Nas Universidades Chilenas: Vantagem Ou Desvantagem? Nuances: Estudos sobre Educação, Presidente Prudente, v. 35, n. 0, p.1-15. 2024.
+
+MORA, Y. Y.; RIZZO, J. M. A. Influencia De La Inteligencia Artificial En Los Estudiantes Universitarios. South Florida Journal of Development, v. 4, n. 10, p.3749-3762. 2023.
+
+MOREIRA, M. J. O.; ESPINOZA, M. M. G. Inteligencia Artificial Como La Estrategia De Apoyo En El Aprendizaje Autónomo De Los Estudiantes Universitarios. South Florida Journal of Development, v. 10, n. 5, p.567-574. 2024.
+
+NUNES, J. P.; SOUZA, M. L. A Inteligência Artificial como Ferramenta de Apoio à Tomada de Decisão na Gestão Acadêmica: Uma Análise da Percepção dos Gestores do Ensino Superior. Revista de Administração Pública, v. 55, n. 4, p.987-1002. 2021.
+
+OLIVEIRA, R. M.; COSTA, L. S. A Utilização de Inteligência Artificial para a Análise de Dados Educacionais: Uma Avaliação da Eficácia e Implicações Éticas. Revista Brasileira de Estudos Pedagógicos, v. 102, n. 261, p.456-471. 2021.
+
+PEREIRA, A. C.; SANTOS, D. R. A Inteligência Artificial como Ferramenta de Apoio à Orientação Acadêmica: Uma Avaliação da Percepção dos Estudantes e Professores. Revista de Ensino de Engenharia, v. 40, n. 2, p.189-204. 2021.
+
+RIBEIRO, M. F.; ALMEIDA, P. J. A Utilização de Inteligência Artificial para a Criação de Conteúdo Educacional Personalizado: Uma Análise da Eficácia e Desafios. Revista Brasileira de Informática na Educação, v. 29, n. 1, p.56-71. 2021.
+
+ROCHA, S. L.; BARROS, E. M. A Inteligência Artificial como Ferramenta de Apoio à Aprendizagem Colaborativa: Uma Avaliação da Percepção dos Estudantes. Revista de Educação e Tecnologia, v. 16, n. 1, p.89-104. 2023.
+
+ROCHA, D.; BORGES, G. L. Curadoria de Conteúdo na EAD: Desafios da Gestão Educacional no Ensino Superior. Revista Brasileira De Aprendizagem Aberta E a Distância, v. 22, n. 1, p.1-30. 2024.
+
+ROLL, I.; WYLIE, R. Evolution and Revolution in Artificial Intelligence in Education. British Journal of Educational Technology, v. 26, p.582-599. Fev. 2016.
+
+RUSSELL, S. J.; NORVIG, P. Artificial intelligence: A modern approach. 3rd ed. Pearson, 2016.
+
+SANTOS, G. R.; CARVALHO, L. A. A Utilização de Inteligência Artificial para a Análise de Sentimento em Fóruns de Discussão Online: Uma Avaliação da Eficácia e Implicações Éticas. Revista Brasileira de Computação Aplicada, v. 14, n. 2, p.234-249. 2022.
+
+SELWYN, N. Education and Technology: Key Issues and Debates. 2nd ed. Bloomsbury Academic, 2016.
+
+SILVA, J. M.; DIAS, P. R. A Inteligência Artificial como Ferramenta de Apoio à Gamificação da Aprendizagem: Uma Avaliação da Percepção dos Estudantes. Anais do Simpósio Brasileiro de Jogos e Entretenimento Digital, v. 20, p.123-138. 2021.
+
+SILVA, M.; MARCA, A.; LOPES, R. Percepções da Inteligência Artificial Generativa na educação: Um estudo sobre o uso entre universitários. Anais da XIII Escola Regional de Informática de Mato Grosso, p.108-113. 2024.
+
+SILVA, A. C. F.; SOUSA, R. R. Usos E Receios da Inteligência Artificial Pelos Profissionais Da Tecnologia Da Informação: Percepções Dos Estudantes De Tecnologia Da Informação, Da Universidade Federal Rural, Campus Pau Dos Ferros. Revista Contemporânea, v. 4, n. 1, p.4715-4738. 2024.
+
+SOUZA, R. P.; GOMES, T. F. A Utilização de Inteligência Artificial para a Criação de Ambientes Virtuais de Aprendizagem Imersivos: Uma Análise da Eficácia e Desafios. Revista Brasileira de Informática na Educação, v. 30, n. 2, p.178-193. 2022.
+
+TEIXEIRA, C. S.; LIMA, V. R. A Inteligência Artificial como Ferramenta de Apoio à Avaliação por Pares: Uma Avaliação da Percepção dos Estudantes. Revista de Ensino de Engenharia, v. 41, n. 1, p.78-93. 2022.
+
+UNESCO. Recommendation on the Ethics of Artificial Intelligence. UNESCO, 2021.
+
+VASCONCELOS, A. M.; MARTINS, R. C. A Utilização de Inteligência Artificial para a Criação de Planos de Estudo Personalizados: Uma Análise da Eficácia e Benefícios para os Estudantes. Revista Brasileira de Educação, v. 27, n. 2, p.1-16. 2022.
+
+VINCENT, J. Google’s Bard Ai Can Now Generate Images. The Verge, 2023.
+
+XAVIER, D. L.; MENDES, S. A. A Inteligência Artificial como Ferramenta de Apoio à Detecção de Estudantes em Risco de Evasão: Uma Análise da Eficácia e Implicações Éticas. Revista Brasileira de Estudos Pedagógicos, v. 103, n. 263, p.321-336. 2022.
+
+ZAMBONI, P. Q.; NUNES, E. R. A Utilização de Inteligência Artificial para a Criação de Conteúdo Educacional em Formatos Acessíveis: Uma Análise da Eficácia e Desafios. Revista Brasileira de Informática na Educação, v. 31, n. 1, p.102-117. 2023.
+
+ZAWACKI-RICHTER, O.; MARÍN, V. I.; BOND, M.; GOUVERNEUR, F. Systematic Review of Research on Artificial Intelligence Applications in Higher Education–Where Are the Educators? International Journal of Educational Technology in Higher Education, v. 16, n. 39, p.1-27. Oct. 2019.`
 * DOI ou URL: `https://reer.emnuvens.com.br/reer/article/view/852`
 * Base de origem: `Google acadêmico`
 * Leitor responsável: `Richard Otavio`
