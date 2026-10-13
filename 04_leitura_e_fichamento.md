@@ -246,7 +246,16 @@ Página: `[número]`
 
 ## Identificação do artigo 3  
 
-* Referência completa: ``
+* Referência completa: `Emerson Leandro da Silva Silva, Diogo Lucas da Silva Ferreira, Jorge João Hermes Neto, Camila Rodrigues Mendes, Taiza Naiana da Silva Ferreira, Gleisson Amaral Mendes, FRAMEWORK CONCEITUAL PARA IMPLEMENTAÇÃO DA INTELIGÊNCIA ARTIFICIAL INCLUSIVA NA EDUCAÇÃO SUPERIOR , Revista Ibero-Americana de Humanidades, Ciências e Educação: v. 12 n. 9 (2026): Revista Ibero-Americana de Humanidades, Ciências e Educação — REASE
+Jonathan Jardim da Silva, Aline Mahmoud Rodrigues, Caroline Santana Ullrich, Anderson Fernandes de Carvalho Farias, José de Alencar Lima dos Anjos, Humberto Rabelo, INTELIGÊNCIA ARTIFICIAL NO ENSINO ANATÔMICO E BIOCELULAR: INOVAÇÕES TECNOLÓGICAS E IMPACTOS NA EDUCAÇÃO EM SAÚDE , Revista Ibero-Americana de Humanidades, Ciências e Educação: v. 12 n. 3 (2026): Revista Ibero-Americana de Humanidades, Ciências e Educação — REASE
+Clayton Alencar de Freitas, Leonardo Gonçalves Pereira, Fernanda Machado do Nascimento, Maria Analice de Araujo Albuquerque, Maria Ila de Araujo, IMPACTO DA INTELIGÊNCIA ARTIFICIAL NA AVALIAÇÃO ACADÊMICA: TRANSFORMANDO MÉTODOS TRADICIONAIS DE AVALIAÇÃO NO ENSINO SUPERIOR , Revista Ibero-Americana de Humanidades, Ciências e Educação: v. 11 n. 1 (2025): Revista Ibero-Americana de Humanidades, Ciências e Educação — REASE
+Luciano Roberto da Silva Leal, Antonio Tales Sampaio Gomes, Joelma Aparecida Krepel, Johnatan Feliciano dos Santos, Elisangela da Hora Mendonça, DOCÊNCIA ASSISTIDA POR IA: IMPACTOS COGNITIVOS E EMOCIONAIS NO TRABALHO EDUCACIONAL: UMA REVISÃO SISTEMÁTICA DA LITERATURA , Revista Ibero-Americana de Humanidades, Ciências e Educação: v. 11 n. 11 (2025): Revista Ibero-Americana de Humanidades, Ciências e Educação — REASE
+Natalia Rezende Pereira, Cristiane Izilda Trindade Alcântara Feitosa, Daniel Vinícius Pinto, Roma Reis de Almeida, Eugênio Jesus Santana, Alessessandre Roque Garcia Rodrigues, Leila Nazaré dos Santos Passos, Francielle Braznick, José Augusto Barreto, INTELIGÊNCIA ARTIFICIAL GENERATIVA E EDUCAÇÃO INCLUSIVA: DESAFIOS ÉTICOS, PEDAGÓGICOS E LEGAIS NA GARANTIA DO DIREITO À APRENDIZAGEM , Revista Ibero-Americana de Humanidades, Ciências e Educação: v. 12 n. 4 (2026): Revista Ibero-Americana de Humanidades, Ciências e Educação — REASE
+Marcio Kusunoki, Sérgio Luiz Soares Mendonça, Alexsandro Narciso de Oliveira, Adenizia Serafim dos Santos Farias, Haroldo Nascimento da Cruz, PESQUISAS INOVADORAS EM EDUCAÇÃO : 7ª Edição , Revista Ibero-Americana de Humanidades, Ciências e Educação: E-Books
+Danilo Cardoso de Andrade, Maria do Livramento de Araripe Sales, Pedro Barros Junior, Erilene Ferreira da Silva, TECNOLOGIAS INTELIGENTES NA EDUCAÇÃO: IMPACTOS DA INTELIGÊNCIA ARTIFICIAL NOS PROCESSOS DE ENSINO E APRENDIZAGEM , Revista Ibero-Americana de Humanidades, Ciências e Educação: v. 12 n. 3 (2026): Revista Ibero-Americana de Humanidades, Ciências e Educação — REASE
+Elisângela Dias Brugnera, Renato Marchesini, Adenízia Serafim dos Santos Farias, Vaneça Maria Negri Aguiar, Célia Schneider, PESQUISAS INOVADORAS EM EDUCAÇÃO: 5ª Edição , Revista Ibero-Americana de Humanidades, Ciências e Educação: E-Books
+Antonia Janes de Oliveira Benício, Cacilda Inacio da Silva, Maria Valdeli Matias Batista, Jordana Romero Silva, Lívia Maria Dodds de Melo, PESQUISAS INOVADORAS EM EDUCAÇÃO: 4ª edição , Revista Ibero-Americana de Humanidades, Ciências e Educação: E-Books
+Willame Nogueira de Sena, Diane Jéssica Morais Amorim, INTELIGÊNCIA ARTIFICIAL NA EDUCAÇÃO A DISTÂNCIA: PERCURSOS PEDAGÓGICOS, MEDIAÇÃO DOCENTE E DESAFIOS ÉTICO-INSTITUCIONAIS , Revista Ibero-Americana de Humanidades, Ciências e Educação: v. 12 n. 6 (2026): Revista Ibero-Americana de Humanidades, Ciências e Educação — REASE`
 * DOI ou URL: `https://doi.org/10.51891/rease.v10i7.14859`
 * Base de origem: `Google acadêmico`
 * Leitor responsável: `Otávio Araújo, Richard Otavio`
@@ -256,35 +265,35 @@ Página: `[número]`
 
 ### Problema investigado
 
-``
+`O estudo busca entender como a inteligência artificial pode ajudar no ensino e na aprendizagem dos estudantes. Os autores procuram mostrar de que forma essa tecnologia pode facilitar os estudos, adaptar às necessidades de cada aluno e tornar o ensino mais eficiente, sem deixar de lado os desafios que seu uso pode trazer.`
 
 ### Objetivo do estudo
 
-``
+`O objetivo do estudo é entender como a inteligência artificial pode ajudar no aprendizado dos alunos, facilitar o trabalho dos professores e tornar a educação mais acessível. Além disso, busca mostrar que, apesar de trazer vários benefícios, essa tecnologia precisa ser usada com responsabilidade e da maneira correta.`
 
 ### Método utilizado
 
-``
+`Os autores pesquisaram artigos e estudos que já falavam sobre o uso da inteligência artificial na educação. Eles buscaram essas informações em sites de pesquisas acadêmicas, como Scopus, Web of Science e Google Scholar, para entender como a IA está sendo usada nas escolas e faculdades e de que forma ela pode ajudar os alunos e os professores no dia a dia.`
 
 ### Contexto, amostra ou dados
 
-``
+`Os autores utilizaram artigos e pesquisas científicas para entender melhor como a inteligência artificial está sendo usada na educação. Eles buscaram compreender como essa tecnologia pode ajudar os alunos a aprender, adaptar os estudos às necessidades de cada um e facilitar algumas tarefas dos professores. Também falaram sobre os cuidados necessários ao usar a IA. Como o estudo foi feito a partir de pesquisas já existentes, não houve a participação direta de alunos em testes ou experimentos.`
 
 ### Principais resultados
 
-``
+`Os resultados mostram que a inteligência artificial pode ajudar bastante os alunos nos estudos, facilitando a compreensão dos conteúdos e ajudando a tirar dúvidas. Ela também pode tornar o trabalho dos professores mais fácil e ajudar na organização das escolas e faculdades. Porém, o estudo também mostra que existem alguns desafios, como proteger os dados das pessoas e garantir que todos tenham acesso a essa tecnologia.`
 
 ### Limitações apresentadas
 
-``
+`O estudo mostra que ainda existem algumas dificuldades no uso da inteligência artificial na educação. Nem todos os alunos têm acesso à tecnologia, e muitos professores ainda precisam aprender a utilizar essas ferramentas no ensino. Também existe a preocupação com a segurança das informações pessoais. Os autores se basearam em pesquisas que já existiam, sem realizar testes diretamente com estudantes para observar, na prática, os resultados do uso da inteligência artificial.`
 
 ### Contribuição para o nosso artigo
 
-``
+`Esse estudo ajuda no nosso artigo porque mostra como a inteligência artificial pode ajudar os alunos nos estudos, principalmente quando têm dúvidas ou dificuldade para entender alguma matéria. mostra tambem que não podemos deixar tudo nas mãos da tecnologia. Acredito que a IA pode ser uma grande ajuda na aprendizagem, desde que a gente saiba usá-la para aprender de verdade, e não apenas para conseguir respostas prontas.`
 
 ### Comentário crítico
 
-``
+`Na minha opinião, a inteligência artificial pode ajudar bastante nos estudos, principalmente quando temos dúvidas ou dificuldade para entender alguma coisa. Mas acredito que não devemos usar a IA para fazer tudo por nós, porque, dessa forma, acabamos deixando de aprender por conta própria.  Nem todos os estudantes têm acesso à internet ou a essas ferramentas. Por isso, acho que a inteligência artificial pode trazer muitos benefícios para a educação,`
 
 ### Citação literal opcional
 
