@@ -146,35 +146,35 @@ Página: `[número]`
 
 ### Problema investigado
 
-`[preencher]`
+`O estudo procura entender se a inteligência artificial realmente ajuda os estudantes de medicina a aprender melhor ou se os métodos tradicionais de ensino continuam sendo tão eficientes quanto ela.`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`O objetivo foi entender como a inteligência artificial pode ajudar na formação dos estudantes de medicina e quais são as diferenças entre aprender com essa tecnologia e estudar pelos métodos tradicionais.`
 
 ### Método utilizado
 
-`[preencher]`
+`Os pesquisadores fizeram uma revisão de artigos científicos sobre o assunto. Eles pesquisaram em três bases de dados, PubMed, SciELO e LILACS, e selecionaram 19 artigos publicados entre 2020 e 2025 para analisar os resultados.`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`O estudo analisou 19 artigos que falavam sobre o uso da inteligência artificial no ensino de medicina. Os pesquisadores observaram como ferramentas como o ChatGPT podem ajudar os estudantes a aprender conteúdos teóricos e desenvolver habilidades práticas.`
 
 ### Principais resultados
 
-`[preencher]`
+`Os resultados mostraram que a inteligência artificial pode ajudar bastante na parte prática, principalmente em treinamentos cirúrgicos e simulações de entrevistas médicas. Já na parte teórica, ela não apresentou uma diferença tão grande em comparação aos métodos tradicionais. Também foram encontradas dificuldades relacionadas à qualidade das informações e ao raciocínio crítico.`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`Uma das dificuldades encontradas no estudo é que algumas pesquisas tiveram poucos participantes e foram feitas de maneiras diferentes, o que torna mais difícil comparar os resultados. Além disso, ainda não se sabe ao certo se a inteligência artificial é sempre confiável e quais podem ser as consequências do seu uso para os estudantes no futuro.`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`Esse estudo ajuda no nosso artigo porque mostra que a inteligência artificial pode facilitar os estudos e ajudar os alunos a aprender de outras maneiras. Ao mesmo tempo, deixa claro que ela não deve substituir completamente os métodos tradicionais, mas ser utilizada como uma ferramenta de apoio à aprendizagem.`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`Eu acho que a inteligência artificial pode ajudar muito os estudantes, principalmente quando a gente tem dúvidas ou dificuldade para entender alguma matéria. Mas também não podemos confiar em tudo o que ela fala, nem deixar que faça tudo por nós. Na minha visão, o importante é usar a IA para facilitar os estudos e aprender coisas novas, mas sem deixar de pensar por conta própria e procurar outras fontes para entender melhor o assunto.`
 
 ### Citação literal opcional
 
