@@ -207,11 +207,11 @@ ZAWACKI-RICHTER, O.; MARÍN, V. I.; BOND, M.; GOUVERNEUR, F. Systematic Review o
 
 ### Problema investigado
 
-`O estudo procura como a inteligência artificial está sendo utilizada pelos estudantes e de que forma ela pode ajudar ou prejudicar a aprendizagem, o desempenho acadêmico e o desenvolvimento de habilidades.`
+`O estudo procura como a inteligência artificial está sendo utilizada pelos estudantes e de que forma ela pode ajudar ou prejudicar a aprendizagem, o desempenho estudantil e o desenvolvimento de habilidades.`
 
 ### Objetivo do estudo
 
-`O objetivo foi entender como os estudantes usam a inteligência artificial para ajudar nos estudos, de que forma ela facilita o aprendizado e quais cuidados precisam ter ao utilizá-la. Além disso, buscamos compreender se o uso dessas ferramentas pode ajudar os alunos a aprender mais ou acabar fazendo com que dependam demais da tecnologia para pensar e realizar seus trabalhos acadêmicos.`
+`O objetivo foi entender como os estudantes usam a inteligência artificial para ajudar nos estudos, de que forma ela facilita o aprendizado. Além disso, busca compreender se o uso dessas ferramentas pode ajudar os alunos a aprender mais ou acabar fazendo com que dependam demais da tecnologia para pensar e realizar seus trabalhos`
 
 ### Método utilizado
 
