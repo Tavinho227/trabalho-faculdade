@@ -68,7 +68,7 @@ ZHAI, Xuesong et al. A Review of Artificial Intelligence (AI) in Education from 
 
 ### Limitações apresentadas
 
-`[preencher]`
+`O problema principal do estudo seria o uso da IA para gerar textos automaticamente, mas a amostra dos 15 artigos escolhidos se distanciou consideravelmente do tema central, focando em outras áreas sobre a inteligência artificial e menos na geração automática de textos.`
 
 ### Contribuição para o nosso artigo
 
@@ -76,7 +76,7 @@ ZHAI, Xuesong et al. A Review of Artificial Intelligence (AI) in Education from 
 
 ### Comentário crítico
 
-`Nota-se uma `
+`O tema abordado é de extrema relevância e da atualidade, com a inteligência artificial se fazendo presente mais do que nunca, porém o tema principal sobre a geração automática de textos, foi deixado de lado ao longo do artigo e o foco direcionado para outras questões da inteligência artificial, esquecendo o tema principal.`
 
 ### Citação literal opcional
 
