@@ -34,7 +34,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Síntese crítica provisória
 
-`Os três artigos mostram que a inteligência artificial pode ajudar bastante na educação, principalmente na hora de estudar, tirar dúvidas e entender melhor os conteúdos. Mas também mostram que existem alguns problemas, como acabar dependendo demais da tecnologia, a preocupação com os dados pessoais e o fato de que nem todos têm acesso a essas ferramentas. Além disso, acredito que a IA deve ajudar tanto os alunos quanto os professores, mas não substituir o papel deles. Ainda precisamos entender melhor como ela influencia o aprendizado na prática e com o passar do tempo. Na minha opinião, a inteligência artificial pode ser muito útil nos estudos, desde que seja usada da maneira certa e que os alunos continuem se esforçando para aprender por conta própria.`
+`É mostrado nos 3 artigos que a inteligência artificial pode ajudar bastante na educação, principalmente na hora do estudo, tirar dúvidas e entender melhor os conteúdos, Mas também mostram que existem alguns problemas, como acabar dependendo demais da tecnologia, a preocupação com os dados pessoais e o fato de que nem todos têm acesso a essa tecnologia. Além disso, a IA deve ajudar tanto os alunos quanto os professores, mas não substituir o papel deles. Ainda é preciso entender melhor como ela influencia o aprendizado na prática e com o passar do tempo. Com isso, a inteligência artificial pode ser muito útil nos estudos, desde que seja usada da maneira correta e consciente para que tanto os alunos, quantos professores, não dependam e fiquem refens dessa tecnologia, mas sim a usem como um auxilio em seus estudos e trabalhos.`
 
 ## Checklist
 
