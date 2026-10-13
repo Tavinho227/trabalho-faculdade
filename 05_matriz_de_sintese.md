@@ -14,7 +14,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`Benefícios da IA na aprendizagem`|`Barbosa (2023); Bezerra et al. (2024); Inácio Teixeira e Silva Filho (2025).`|`Os artigos mostram que a inteligência artificial pode ajudar os alunos a tirar dúvidas, entender melhor os conteúdos e facilitar os estudos.`|`Alguns estudos analisam pesquisas já publicadas, enquanto outro apresenta as opiniões de estudantes universitários sobre o uso da IA.`|`[preencher]`|`[preencher]`|
+|`Benefícios da IA na aprendizagem`|`Barbosa (2023); Bezerra et al. (2024); Inácio Teixeira e Silva Filho (2025).`|`Os artigos mostram que a inteligência artificial pode ajudar os alunos a tirar dúvidas, entender melhor os conteúdos e facilitar os estudos.`|`Alguns estudos analisam pesquisas já publicadas, enquanto outro apresenta as opiniões de estudantes universitários sobre o uso da IA.`|`As pesquisas bibliográficas dependem dos estudos já existentes, e o estudo com universitários contou com apenas 96 participantes.`|`Ainda é necessário entender melhor se a IA realmente melhora o aprendizado dos alunos a longo prazo.`|
 
 ## Roteiro da revisão da literatura
 
