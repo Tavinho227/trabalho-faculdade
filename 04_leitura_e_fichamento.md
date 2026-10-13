@@ -247,7 +247,7 @@ Página: `[número]`
 ## Identificação do artigo 3  
 
 * Referência completa: `Emerson Leandro da Silva Silva, Diogo Lucas da Silva Ferreira, Jorge João Hermes Neto, Camila Rodrigues Mendes, Taiza Naiana da Silva Ferreira, Gleisson Amaral Mendes, FRAMEWORK CONCEITUAL PARA IMPLEMENTAÇÃO DA INTELIGÊNCIA ARTIFICIAL INCLUSIVA NA EDUCAÇÃO SUPERIOR , Revista Ibero-Americana de Humanidades, Ciências e Educação: v. 12 n. 9 (2026): Revista Ibero-Americana de Humanidades, Ciências e Educação — REASE
-* 
+
 Jonathan Jardim da Silva, Aline Mahmoud Rodrigues, Caroline Santana Ullrich, Anderson Fernandes de Carvalho Farias, José de Alencar Lima dos Anjos, Humberto Rabelo, INTELIGÊNCIA ARTIFICIAL NO ENSINO ANATÔMICO E BIOCELULAR: INOVAÇÕES TECNOLÓGICAS E IMPACTOS NA EDUCAÇÃO EM SAÚDE , Revista Ibero-Americana de Humanidades, Ciências e Educação: v. 12 n. 3 (2026): Revista Ibero-Americana de Humanidades, Ciências e Educação — REASE
 
 Clayton Alencar de Freitas, Leonardo Gonçalves Pereira, Fernanda Machado do Nascimento, Maria Analice de Araujo Albuquerque, Maria Ila de Araujo, IMPACTO DA INTELIGÊNCIA ARTIFICIAL NA AVALIAÇÃO ACADÊMICA: TRANSFORMANDO MÉTODOS TRADICIONAIS DE AVALIAÇÃO NO ENSINO SUPERIOR , Revista Ibero-Americana de Humanidades, Ciências e Educação: v. 11 n. 1 (2025): Revista Ibero-Americana de Humanidades, Ciências e Educação — REASE
