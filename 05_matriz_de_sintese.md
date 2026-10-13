@@ -6,9 +6,9 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `[Eixo ou subtema 1]`
-2. `[Eixo ou subtema 2]`
-3. `[Eixo ou subtema 3, se necessário]`
+1. `Benefícios da inteligência artificial na aprendizagem dos estudantes.`
+2. `Desafios e riscos do uso da inteligência artificial na educação.`
+3. `Uso responsável da inteligência artificial e o papel dos professores no aprendizado.`
 
 ## Matriz de síntese
 
