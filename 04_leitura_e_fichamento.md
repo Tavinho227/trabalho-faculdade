@@ -239,7 +239,7 @@ ZAWACKI-RICHTER, O.; MARÍN, V. I.; BOND, M.; GOUVERNEUR, F. Systematic Review o
 
 ### Citação literal opcional
 
-> `Alguns estudantes mencionaram que o uso constante dela pode enfraquecer o pensamento crítico ou a capacidade de redigir de forma independente.`
+> `"Alguns estudantes mencionaram que o uso constante dela pode enfraquecer o pensamento crítico ou a capacidade de redigir de forma independente."`
 
 Página: `95`
 
@@ -305,7 +305,7 @@ Willame Nogueira de Sena, Diane Jéssica Morais Amorim, INTELIGÊNCIA ARTIFICIAL
 
 ### Citação literal opcional
 
-> `A personalização do ensino é um dos pilares fundamentais dessa transformação, permitindo que cada aluno receba um suporte adaptado às suas necessidades individuais.`
+> `"A personalização do ensino é um dos pilares fundamentais dessa transformação, permitindo que cada aluno receba um suporte adaptado às suas necessidades individuais."`
 
 Página: `3`
 
