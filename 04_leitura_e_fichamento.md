@@ -241,7 +241,7 @@ ZAWACKI-RICHTER, O.; MARÍN, V. I.; BOND, M.; GOUVERNEUR, F. Systematic Review o
 
 > `"Alguns estudantes mencionaram que o uso constante dela pode enfraquecer o pensamento crítico ou a capacidade de redigir de forma independente."`
 
-Página: `95`
+Página: `10`
 
 
 ## Identificação do artigo 3  
