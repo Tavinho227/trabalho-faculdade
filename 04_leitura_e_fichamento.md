@@ -305,9 +305,9 @@ Willame Nogueira de Sena, Diane Jéssica Morais Amorim, INTELIGÊNCIA ARTIFICIAL
 
 ### Citação literal opcional
 
-> `"A personalização do ensino é um dos pilares fundamentais dessa transformação, permitindo que cada aluno receba um suporte adaptado às suas necessidades individuais."`
+`"Em conclusão, a IA tem o potencial de revolucionar a educação ao oferecer uma aprendizagem mais personalizada, eficiente e inclusiva. Contudo, para que essa revolução seja benéfica para todos, é crucial abordar de maneira adequada os desafios éticos e práticos."`
 
-Página: `3`
+Página: `1219`
 
 
 
