@@ -20,7 +20,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Metodologia
 
-`O estudo foi desenvolvido por meio da revisão comparativa de três artigos científicos publicados em 2023, 2024 e 2025. Foram considerados o estudo de Barbosa, Bezerra e outros, e Inácio Teixeira e Silva filho, abordam a utilização de ia na educação. A analise foi organizada em dois eixos, benefícios da inteligência artificial na aprendizagem dos estudantes e o uso responsável da IA e o papel do professores no aprendizado. Foram comparados os objetivos, os métodos e resultados apresentados pelos autores, buscando mostrar pontos em comum, diferenças e questões que ainda precisam ser investigadas com o tempo.`
+`O estudo foi desenvolvido por meio da revisão comparativa de três artigos científicos publicados em 2023, 2024 e 2025. Foram considerados o estudo de Barbosa, Bezerra e outros, e Inácio Teixeira e Silva filho, abordado a utilização de ia na educação. A analise foi organizada em dois eixos, benefícios da inteligência artificial na aprendizagem dos estudantes e o uso responsável da IA e o papel do professores no aprendizado. Foram comparados os objetivos, os métodos e resultados apresentados pelos autores, buscando mostrar pontos em comum, diferenças e questões que ainda precisam ser investigadas com o tempo.`
 
 ## Revisão da literatura
 
