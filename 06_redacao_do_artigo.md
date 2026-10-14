@@ -34,7 +34,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ### Síntese crítica
 
-`É visto nos 3 artigos que a IA pode ajudar bastante na educação, principalmente na hora do estudo, tirar dúvidas e entender melhor os conteúdos. Também mostram que existem alguns problemas, como acabar dependendo demais da tecnologia, a preocupação com dados pessoais e o fato que nem todos têm acesso a essa tecnologia. Além disso, a IA deve ajudar alunos e professores, e não substituir o papel do educador. Ainda é preciso entender melhor como ela influencia o aprendizado na prática e com passar do tempo. Com isso, a IA pode ser muito útil nos estudos, desde que usada da maneira correta e consciente, assim tanto os alunos, quanto professores não dependam e fiquem reféns dessa tecnologia, mas sim usem como auxilio em estudos e trabalhos.`
+`É visto nos 3 artigos que a IA pode ajudar bastante na educação, principalmente na hora do estudo, tirar dúvidas e entender melhor os conteúdos. Também mostram que existem alguns problemas, como acabar dependendo demais da tecnologia, a preocupação com dados pessoais e o fato que nem todos têm acesso a essa tecnologia. Além disso, a IA deve ajudar alunos e professores, e não substituir o papel do educador. Ainda é preciso entender melhor como ela influencia o aprendizado na prática e com passar do tempo. Com isso, a IA pode ser muito útil nos estudos, desde que usada da maneira correta e consciente, assim tanto os alunos quanto professores não fiquem dependentes e reféns dessa tecnologia, mas sim usada como auxílio em estudos e trabalhos.`
 
 ## Considerações finais
 
