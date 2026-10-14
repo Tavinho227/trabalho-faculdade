@@ -43,7 +43,7 @@ Já Inácio Teixeira e Silva Filho (2025) buscaram entender a opinião dos estud
 
 ## Resumo
 
-`Este artigo analisa os pôs e contras do uso da inteligência artificial na aprendizagem, foi realizada uma revisão comparativa de três artigos publicados em 2023 e 2025. Os resultados indicam que a IA pode facilitar os estudos, esclarecer dúvidas e personalizar o ensino, por outro lado, seu uso excessivo pode prejudicar a autonomia , o desenvolvimento de habilidades acadêmicas. Mostra que a utilização responsável da tecnologia, com orientações dos professores, é fundamental para seus benefícios sem comprometer a aprendizagem.`
+`Esse artigo tem como análise pontos positivos e negativos do uso da IA na aprendizagem por meio de uma revisão comparativa entre três artigos publicados entre 2023 a 2025. Resultados mostram que, embora a IA ajude a facilitar a rotina de estudos, personalizar o ensino e tirar dúvidas, o uso dessa ferramenta sem limites pode prejudicar a autonomia do aluno e seu desenvolvimento de habilidades acadêmicas essenciais. Conclui-se que é essencial o uso responsável da tecnologia, com auxílio dos professores para melhorar os estudos sem que haja comprometimento do aprendizado.`
 
 ## Referências
 
