@@ -51,7 +51,7 @@ Já Inácio Teixeira e Silva Filho (2025) buscaram entender a opinião dos estud
 
 `Inacio Teixeira, M. F. H. B., & da Silva Filho, L. G. (2025). O IMPACTO DA INTELIGÊNCIA ARTIFICIAL ENTRE ESTUDANTES DO ENSINO SUPERIOR. Revista Eletrônica Da Estácio Recife, 12(1), 86–100. https://reer.emnuvens.com.br/reer/article/view/852`
 
-
+`Bezerra, E. T., Caitano, T. F., Gonçalves, R., Damacena, R., Cortes, V. R. R., & Scabeni, R. S. (2024). O IMPACTO DO USO DA INTELIGÊNCIA ARTIFICIAL NOS PROCESSOS DE ENSINO E APRENDIZAGEM. Revista Ibero-Americana de Humanidades, Ciências e Educação, 10(7), 1211-1220. https://doi.org/10.51891/rease.v10i7.14859`
 
 ## Checklist
 
