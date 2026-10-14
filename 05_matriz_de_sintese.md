@@ -22,7 +22,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 * Ideia principal: `a inteligência artificial pode ajudar  e muito nos estudos, principalmente quando o aluno possuí alguma dificuldade para entender a matéria. Ela também pode facilitar as atividades e ajudar cada estudante de acordo com sua dificuldade ou necessidade.`
 * Evidências que serão usadas: `os artigos de Barbosa (2023) e Bezerra e outros (2024) mostram possibilidades na personalização do ensino e melhoria na aprendizagem. É complementado por Inácio Teixeira e Silva Filho (2025) essa discussão com a pesquisa feita com 96 estudantes universitários de 3 áreas distintas sobre o uso da IA.`
-* Comparação entre estudos: ``
+* Comparação entre estudos: `é apontado benefícios para a educação, mas abordado de maneiras diferentes, enquanto dois dos artigos analisam estudos já publicados, o outro apresenta a opinião de estudantes que utilizam essas ferramentas.`
 * Ligação com o problema: ``
 
 ### Eixo 2
