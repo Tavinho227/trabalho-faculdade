@@ -30,7 +30,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ### `Uso responsável da inteligência artificial e o papel dos professores no aprendizado.`
 
-`Por mais que seja uma ferramenta moderna e muito útil, o acompanhamento do professor continua indispensável para garantir que o aluno realmente pratique e absorva o conhecimento e não apenas automatize tudo com a IA. A IA possui limitação me não conseguir reproduzir o andamento e empatia do ensino como um professor em sala de aula. Dos 96 alunos, 72% reconhecem que a ferramenta não desenvolve a escrita independente. 40% dos 96 afirmaram sentir dificuldade em estudar sem apoio da IA. Nos trabalhos teóricos é visto a IA como uma aliada no trabalho de ensino do professor, enquanto que dados de campo apontam para uma perda de habilidades reflexivas e acomodação dos estudantes.`
+`Por mais que seja uma ferramenta moderna e muito útil, o acompanhamento do professor continua indispensável para garantir que o aluno realmente pratique e absorva o conhecimento e não apenas automatize tudo com a IA. A IA possui limitação de não conseguir reproduzir o andamento e empatia do ensino como um professor em sala de aula. Dos 96 alunos, 72% reconhecem que a ferramenta não desenvolve a escrita independente. 40% dos 96 afirmaram sentir dificuldade em estudar sem apoio da IA. Nos trabalhos teóricos é visto a IA como uma aliada no trabalho de ensino do professor, enquanto que dados de campo apontam para uma perda de habilidades reflexivas e acomodação dos estudantes.`
 
 ### Síntese crítica
 
