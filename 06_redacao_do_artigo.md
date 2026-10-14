@@ -20,7 +20,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Metodologia
 
-`[Informe o tipo de revisão, bases, estratégias de busca, período, critérios, triagem e forma de análise.]`
+`O trabalho foi desenvolvido por meio de uma revisão comparativa de três artigos científicos publicados em 2003, 2004 e 2025. Foram considerados o estudo de Barbosa, Bezerra e outros, 2024 e e Inácio Teixeira e silva filho, abordam a utilização da ia na educação. A analise foi organizada em três eixos, beneficio da ia para aprendizagem e o desafios relacionados ao seu uso. Foram comparados os objetivos, os métodos e os resultados apresentados pelos autores, buscando mostrar os pontos em comum, diferenças e questões que ainda precisam ser investigadas.`
 
 ## Revisão da literatura
 
