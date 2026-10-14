@@ -47,11 +47,11 @@ Já Inácio Teixeira e Silva Filho (2025) buscaram entender a opinião dos estud
 
 ## Referências
 
-`Almeida Correa Barbosa, C. R. de. (2023). TRANSFORMAÇÕES NO ENSINO-APRENDIZAGEM COM O USO DA INTELIGÊNCIA ARTIFICIAL: REVISÃO SISTEMÁTICA DA LITERATURA. RECIMA21 - Revista Científica Multidisciplinar - ISSN 2675-6218, 4(5), e453103. https://doi.org/10.47820/recima21.v4i5.3103`
+`Almeida Correa Barbosa, C. R. de. (2023). TRANSFORMAÇÕES NO ENSINO-APRENDIZAGEM COM O USO DA INTELIGÊNCIA ARTIFICIAL: REVISÃO SISTEMÁTICA DA LITERATURA. RECIMA21 - Revista Científica Multidisciplinar - ISSN 2675-6218, 4(5), e453103. Disponível em https://doi.org/10.47820/recima21.v4i5.3103`
 
-`Inacio Teixeira, M. F. H. B., & da Silva Filho, L. G. (2025). O IMPACTO DA INTELIGÊNCIA ARTIFICIAL ENTRE ESTUDANTES DO ENSINO SUPERIOR. Revista Eletrônica Da Estácio Recife, 12(1), 86–100. https://reer.emnuvens.com.br/reer/article/view/852`
+`Inacio Teixeira, M. F. H. B., & da Silva Filho, L. G. (2025). O IMPACTO DA INTELIGÊNCIA ARTIFICIAL ENTRE ESTUDANTES DO ENSINO SUPERIOR. Revista Eletrônica Da Estácio Recife, 12(1), 86–100. Disponível em https://reer.emnuvens.com.br/reer/article/view/852`
 
-`Bezerra, E. T., Caitano, T. F., Gonçalves, R., Damacena, R., Cortes, V. R. R., & Scabeni, R. S. (2024). O IMPACTO DO USO DA INTELIGÊNCIA ARTIFICIAL NOS PROCESSOS DE ENSINO E APRENDIZAGEM. Revista Ibero-Americana de Humanidades, Ciências e Educação, 10(7), 1211-1220. https://doi.org/10.51891/rease.v10i7.14859`
+`Bezerra, E. T., Caitano, T. F., Gonçalves, R., Damacena, R., Cortes, V. R. R., & Scabeni, R. S. (2024). O IMPACTO DO USO DA INTELIGÊNCIA ARTIFICIAL NOS PROCESSOS DE ENSINO E APRENDIZAGEM. Revista Ibero-Americana de Humanidades, Ciências e Educação, 10(7), 1211-1220. Disponível em https://doi.org/10.51891/rease.v10i7.14859`
 
 ## Checklist
 
