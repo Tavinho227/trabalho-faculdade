@@ -39,7 +39,7 @@ Já Inácio Teixeira e Silva Filho (2025) buscaram entender a opinião dos estud
 
 ## Considerações finais
 
-`A inteligência artificial pode contribuir para uma aprendizagem mais acessível, principalmente a ajudar estudantes a esclarecer duvidas e aprender sobre conteúdos mais difíceis. No enteando seu uso precisa ser equilibrado para evitar a dependência do uso dela, O professor e essencial para orientar os alunos, estimular o pensamento e acompanhar desenvolvimento, A ia deve ser usada como uma ferramenta de apoio, e não algo que substitua o aprendizado, pesquisas podem afirmar como diferentes formas de utilização da tecnologia influenciam a compressão do conteúdo e o desenvolvimento das habilidades dos estudantes`
+`A inteligência artificial pode contribuir para uma aprendizagem mais acessível, principalmente a ajudar estudantes a esclarecer duvidas e aprender sobre conteúdos mais difíceis. No entanto seu uso precisa ser equilibrado para evitar a dependência do uso dela, O professor e essencial para orientar os alunos, estimular o pensamento e acompanhar desenvolvimento, A ia deve ser usada como uma ferramenta de apoio, e não algo que substitua o aprendizado, pesquisas podem afirmar como diferentes formas de utilização da tecnologia influenciam a compressão do conteúdo e o desenvolvimento das habilidades dos estudantes`
 
 ## Resumo
 
