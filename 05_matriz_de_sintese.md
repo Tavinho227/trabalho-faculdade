@@ -32,6 +32,14 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 * Comparação entre estudos: `Os autores concordam que a IA pode ajudar na educação, mas ressaltam que sua utilização também exige cuidados. As diferenças aparecem no foco de cada pesquisa, seja na opinião dos estudantes, na análise da literatura ou nos aspectos éticos e pedagógicos.`
 * Ligação com o problema: `Esse eixo permite discutir como aproveitar os benefícios da inteligência artificial sem prejudicar a autonomia, o pensamento crítico e o aprendizado dos estudantes.`
 
+### Eixo 3
+
+* Ideia principal: `O professor como mediador continua sendo indispensável na formação para evitar que a automação substitua a reflexão própria do aluno.`
+* Evidências que serão usadas: `A inteligência artificial não consegue reproduzir o andamento e empatia do ensino como um professor dentro de uma sala de aula. Dos 96 alunos de graduação, 72% reconhecem que a ferramenta não desenvolve a escrita independente. 40% dos 96 alunos afirmaram sentir dificuldade para estudar sem o apoio da inteligência artificial.`
+* Comparação entre estudos: `É visto pelos trabalhos teóricos a inteligência artificial como uma aliada no trabalho de ensino pelo professor, enquanto que os dados de campo apontam para uma perda de habilidades reflexivas e acomodação dos estudantes.`
+* Ligação com o problema: `É esclarecido em que medida o uso contínuo de ferramentas como a inteligência artificial favorece ou compromete a autonomia intelectual dos alunos na resolução de tarefas.`
+  
+
 ## Síntese crítica provisória
 
 `É mostrado nos 3 artigos que a inteligência artificial pode ajudar bastante na educação, principalmente na hora do estudo, tirar dúvidas e entender melhor os conteúdos. Também mostram que existem alguns problemas, como acabar dependendo demais da tecnologia, a preocupação com os dados pessoais e o fato de que nem todos têm acesso a essa tecnologia. Além disso, a IA deve ajudar tanto os alunos quanto os professores, mas não substituir o papel deles. Ainda é preciso entender melhor como ela influencia o aprendizado na prática e com o passar do tempo. Com isso, a inteligência artificial pode ser muito útil nos estudos, desde que seja usada da maneira correta e consciente, para que tanto os alunos, quantos professores não dependam e fiquem reféns dessa tecnologia, mas sim a usem como um auxilio em seus estudos e trabalhos.`
