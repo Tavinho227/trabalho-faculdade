@@ -30,7 +30,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 * Ideia principal: `a inteligência artificial pode ajudar muito nos estudos, mas também precisamos saber usar essa ferramenta de uma forma certa.
 Se dependemos dela para tudo, podemos deixar de usar nosso esforço por conta própria e aprender menos.`
 * Evidências que serão usadas: `os artigos mostram que alguns pontos precisam de atenção, o fato de de nem todo mundo ter acesso à tecnologia e a importância dos professores ajudarem os alunos a usar a IA de forma correta.`
-* Comparação entre estudos: `mostram que a inteligência artificial podem ser de grande ajuda nos estudos e trabalhos, mas existe alguns riscos, cada artigo aborda esse assunto, alguns falam sobre a opinião dos estudantes, outros pegam pesquisas já realizadas e também existe aquelas que destacam os cuidados necessários para o uso da tecnologia.`
+* Comparação entre estudos: `mostram que a inteligência artificial pode ser de grande ajuda nos estudos e trabalhos, mas existe alguns riscos, cada artigo aborda esse assunto, alguns falam sobre a opinião dos estudantes, outros pegam pesquisas já realizadas e também existe aquelas que destacam os cuidados necessários para o uso da tecnologia.`
 * Ligação com o problema: `esse eixo entendemos que a ia pode facilitar muito a vida dos estudantes, mas não deve fazer tudo por eles. O importante e aproveitar essa ajuda sem que deixa de se esforçar ou pensar, tirar suas conclusões sobre , mas entender o que foi ensinado.`
 
 ### Eixo 3
