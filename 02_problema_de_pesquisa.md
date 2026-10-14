@@ -14,7 +14,7 @@ Aprendizado moderno com uso da inteligência artificial.
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? os benefícios e desafios do uso da IA na aprendizagem e produtividade. 
+- O que se deseja descobrir ou compreender? os benefícios e desafios do uso da IA no ensino aprendizagem. 
 - Qual é o objeto da pergunta? inteligência artificial. 
 - Qual é o contexto ou recorte? uso da IA no processo de aprendizagem por estudantes.
 - A pergunta pode ser respondida por artigos científicos? sim, com base em estudos que investigam o tema. 
