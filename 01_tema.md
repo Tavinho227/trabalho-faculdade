@@ -7,7 +7,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: Otavio Araújo, Richard Otavio
+- Integrantes: Otávio Araújo, Richard Otavio
 - Data: 30/09/2026
 
 ## Preenchimento
