@@ -47,7 +47,7 @@ Já Inácio Teixeira e Silva Filho (2025) buscaram entender a opinião dos estud
 
 ## Referências
 
-`[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
+`[BARBOSA, Carlos Roberto de Almeida Corrêa. Transformações no ensino-aprendizagem com o uso da inteligência artificial: revisão sistemática da literatura. RECIMA21 - Revista Científica Multidisciplinar, v. 4, n. 5, e453103, 2023.`
 
 ## Checklist
 
