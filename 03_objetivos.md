@@ -25,7 +25,7 @@ Analisar como a Inteligência artificial funciona e facilita o ensino moderno, c
 |---|---|
 | Problema | Dependência e uso ético da IA
 | Objetivo geral | Compreender o impacto no ensino
-| Resultado esperado | Compreensão do uso da IA 
+| Resultado esperado | Reflexão no uso da IA 
 
 ## Produto da etapa
 
