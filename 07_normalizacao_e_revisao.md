@@ -6,9 +6,9 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-* Título do artigo: `[preencher]`
-* Versão revisada: `[número]`
-* Data: `[dd/mm/aaaa]`
+* Título do artigo: `Aprendizagem moderna com inteligência artificial: Benefícios, desafios e o papel do professor`
+* Versão revisada: `1`
+* Data: `13/10/2026`
 * Responsável pela conferência final: `[preencher]`
 
 ## Revisão científica
