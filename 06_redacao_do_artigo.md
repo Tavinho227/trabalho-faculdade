@@ -24,9 +24,10 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Revisão da literatura
 
-### `[Eixo 1]`
+### `Benefícios da inteligência artificial na aprendizagem`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+`Os três artigos mostram que a inteligência artificial pode trazer benefícios para a educação e ajudar os alunos de diferentes maneiras. Barbosa (2023), ao analisar 15 artigos científicos, explica que a IA pode adaptar os conteúdos de acordo com as necessidades de cada estudante, facilitando o aprendizado e tornando as atividades mais interessantes. Bezerra e outros (2024) também destacam de uma forma mais personalizada, além de contribuir para a organização das instituições de ensino.
+Já Inácio Teixeira e Silva Filho (2025) buscaram entender a opinião dos estudantes sobre o uso de IA por meio de um questionário respondidos por 96 estudantes, Os resultados mostraram que, de modo geral, os alunos veem a tecnologia de forma positiva, principalmente o CHATGPT, que e utilizado para ajudar na escrita de textos, na resolução de exercícios e na compreensão de assuntos mais difíceis. Com isso, percebemos que a inteligência artificial pode ser uma grande aliada nos estudos, principalmente quando o aluno tem duvidas ou dificuldade para entender algum conteúdo. Ela não faz o papel do estudante, mas pode ajudar a tornar o aprendizado mais fácil e acessível.`
 
 ### `[Eixo 2]`
 
