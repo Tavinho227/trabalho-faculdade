@@ -35,7 +35,7 @@ Já Inácio Teixeira e Silva Filho (2025) buscaram entender a opinião dos estud
 
 ### Síntese crítica
 
-`[Apresente tendências, convergências, divergências e lacunas.]`
+`Os três artigos chegam a conclusão do potencial positivo da inteligência artificial para facilitar estudos e adaptar a aprendizagem com base nas necessidades dos alunos. Porém, os trabalhos também mostram que os benefícios dependem da forma como é usada essa ferramenta de IA. Mesmo com diferenças de estudo, é reforçado a importância do professor na orientação com os alunos e o uso ético da ferramenta. Ainda assim é necessário mais pesquisas de campo com número maior de alunos e acompanhados com o passar do tempo para entender melhor os efeitos da inteligência artificial na aprendizagem dos alunos.`
 
 ## Considerações finais
 
