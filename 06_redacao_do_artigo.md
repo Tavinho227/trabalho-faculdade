@@ -31,7 +31,7 @@ Já Inácio Teixeira e Silva Filho (2025) buscaram entender a opinião dos estud
 
 ### `Uso responsável da inteligência artificial e o papel dos professores no aprendizado.`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+`Por mais que seja uma ferramenta moderna e muito útil, o acompanhamento do professor continua indispensável para garantir que o aluno realmente pratique e absorva o conhecimento e não apenas automatize tudo com a IA. A necessidade `
 
 ### Síntese crítica
 
