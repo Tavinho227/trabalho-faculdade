@@ -27,10 +27,11 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 2
 
-* Ideia principal: `Apesar dos benefícios, a IA precisa ser utilizada com cuidado para que os estudantes não dependam totalmente dela e continuem desenvolvendo suas próprias habilidades.`
-* Evidências que serão usadas: `Os artigos discutem questões como a privacidade das informações, a desigualdade no acesso à tecnologia, a necessidade de orientação dos professores e os riscos relacionados ao aprendizado.`
-* Comparação entre estudos: `Os autores concordam que a IA pode ajudar na educação, mas ressaltam que sua utilização também exige cuidados. As diferenças aparecem no foco de cada pesquisa, seja na opinião dos estudantes, na análise da literatura ou nos aspectos éticos e pedagógicos.`
-* Ligação com o problema: `Esse eixo permite discutir como aproveitar os benefícios da inteligência artificial sem prejudicar a autonomia, o pensamento crítico e o aprendizado dos estudantes.`
+* Ideia principal: `a inteligencia artificial pode ajudar muito nos estudos, mas tambem precisamos saber usar essa ferramenta de uma forma certa.
+Se dependemos dela para tudo, podemos deixar de usar nosso esforço por conta própria e aprender menos `
+* Evidências que serão usadas: `Os artigos mostram que alguns pontos precisam de atenção, o fato de de nem todo mundo ter acesso à tecnologia e a importância dos professores ajudarem os alunos a usar a IA de forma correta. `
+* Comparação entre estudos: `mostram que a inteligência artificial podem ser de grande ajuda nos estudos e trabalhos, mas existe alguns riscos, cada artigo aborda esse assunto, alguns falam sobre a opinião dos estudantes, outros pegam pesquisas já realizadas e também existe aquelas que destacam os cuidados necessários para o uso da tecnologia`
+* Ligação com o problema: `esse eixo entendemos que a ia pode facilitar muito a vida dos estudantes, mas não deve fazer tudo por eles. O importante e aproveitar essa ajuda sem que deixa de se esforçar ou pensar, tirar suas conclusões sobre , mas entender o que foi ensinado `
 
 ### Eixo 3
 
