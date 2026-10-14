@@ -16,21 +16,21 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Introdução
 
-`A inteligência artificial está cada vez mais presente na educação, principalmente na forma em como os estudantes procuram por informações, tiram dúvidas e realizam atividades. Ferramentas de IA podem ajudar a explicar conteúdos difíceis, organizar informações e facilitar o entendimento de diferentes assuntos. Porém, apesar dessas vantagens também existe a preocupação com a dependência dessa tecnologia e seus efeitos no desenvolvimento do pensamento crítico e na capacidade própria de resolver problemas. Com isso, esse artigo procura analisar os benefícios e desafios do uso da IA na aprendizagem, com destaque na importância do uso de maneira responsável, sem substituir o esforço dos estudantes e o papel dos professores.`
+`A inteligência artificial está cada vez mais presente na educação, principalmente na forma em como os estudantes procuram por informações, tiram dúvidas e realizam atividades. Ferramentas de IA podem ajudar a explicar conteúdos difíceis, organizar informações e facilitar o entendimento de diferentes assuntos. Porém, apesar dessas vantagens também existe a preocupação com a dependência dessa tecnologia e seus efeitos no desenvolvimento do pensamento crítico e capacidade própria de resolver problemas. Com isso, esse artigo procura analisar benefícios e desafios do uso da IA na aprendizagem, com destaque na importância do uso de maneira responsável, sem substituir o esforço dos estudantes e o papel dos professores.`
 
 ## Metodologia
 
-`O estudo foi desenvolvido por meio da revisão comparativa de três artigos científicos publicados em 2023, 2024 e 2025. Foram considerados o estudo de Barbosa, Bezerra e outros, e Inácio Teixeira e Silva filho, abordam a utilização de ia na educação. A analise foi organizada em dois eixos, benefícios da inteligência artificial na aprendizagem dos estudantes e o uso responsável da IA e o papel do professores no aprendizado. Foram comparados os objetivos, os métodos e os resultados apresentados pelos autores, buscando mostrar pontos em comum, diferenças e questões que ainda precisam ser investigadas com o tempo.`
+`O estudo foi desenvolvido por meio da revisão comparativa de três artigos científicos publicados em 2023, 2024 e 2025. Foram considerados o estudo de Barbosa, Bezerra e outros, e Inácio Teixeira e Silva filho, abordam a utilização de ia na educação. A analise foi organizada em dois eixos, benefícios da inteligência artificial na aprendizagem dos estudantes e o uso responsável da IA e o papel do professores no aprendizado. Foram comparados os objetivos, os métodos e resultados apresentados pelos autores, buscando mostrar pontos em comum, diferenças e questões que ainda precisam ser investigadas com o tempo.`
 
 ## Revisão da literatura
 
 ### `Benefícios da inteligência artificial na aprendizagem`
 
-`Os três artigos mostram que a IA pode trazer benefícios para a educação e ajudar os alunos de diferentes maneiras. Barbosa, ao analisar 15 artigos científicos, explica que a IA pode adaptar os conteúdos de acordo com as necessidades de cada estudante, facilitando o aprendizado. Bezerra e outros também destacam de uma forma mais personalizada, além de contribuir na organização das instituições de ensino. Inácio Teixeira e Silva Filho Fizeram estudo por meio de um questionário respondido por 96 estudantes, Os resultados mostraram que todos os alunos usavam a ferramenta de IA, e parte deles sentiam dificuldade sem o uso dela.`
+`Os três artigos mostram que a IA pode trazer benefícios para a educação e ajudar os alunos de diferentes maneiras. Barbosa, ao analisar 15 artigos científicos, explica que a IA pode adaptar os conteúdos de acordo com as necessidades de cada estudante, facilitando o aprendizado. Bezerra e outros também destacam de uma forma mais personalizada, além de contribuir na organização das instituições de ensino. Inácio Teixeira e Silva Filho fizeram estudo por meio de um questionário respondido por 96 estudantes, resultados mostraram que todos alunos usavam ferramenta de IA, e parte deles sentiam dificuldade sem o uso dela.`
 
 ### `Uso responsável da inteligência artificial e o papel dos professores no aprendizado.`
 
-`Por mais que seja uma ferramenta moderna e muito útil, o acompanhamento do professor continua indispensável garantindo que o aluno realmente pratique e absorva o conhecimento e não apenas automatize tudo com IA. A IA possui limitação de não conseguir reproduzir o andamento e empatia do ensino como um professor em sala de aula. Dos 96 alunos, 72% reconhecem que a ferramenta não desenvolve a escrita independente. 40% dos 96 afirmaram sentir dificuldade em estudar sem apoio da IA. Nos trabalhos teóricos é visto a IA como uma aliada no trabalho de ensino do professor, enquanto que dados de campo apontam para uma perda de habilidades reflexivas e acomodação dos estudantes.`
+`Por mais que seja uma ferramenta moderna e muito útil, o acompanhamento do professor continua indispensável garantindo que o aluno realmente pratique e absorva o conhecimento e não apenas automatize tudo com IA. A IA possui limitação de não conseguir reproduzir o andamento e empatia do ensino como um professor em sala de aula. Dos 96 alunos, 72% reconhecem que a ferramenta não desenvolve a escrita independente. 40% dos 96 afirmaram sentir dificuldade em estudar sem apoio da IA. Nos trabalhos teóricos a IA é vista como facilitadora dos alunos, enquanto que dados de campo apontam para uma perda de habilidades reflexivas e acomodação dos estudantes.`
 
 ### Síntese crítica
 
@@ -38,7 +38,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Considerações finais
 
-`A inteligência artificial pode contribuir para uma aprendizagem mais acessível, principalmente a ajudar estudantes a esclarecer dúvidas e entender conteúdos difíceis. No entanto, seu uso precisa ser equilibrado para evitar a dependência dela. O professor é essencial para orientar os alunos, estimular o pensamento e acompanhar o desenvolvimento. A IA deve ser usada como ferramenta de apoio, não algo que substitua o aprendizado, pesquisas podem afirmar como diferentes formas de utilização da tecnologia influenciam a compreensão do conteúdo e desenvolvimento das habilidades dos estudantes.`
+`A IA pode contribuir para uma aprendizagem mais acessível, principalmente ajudar estudantes a esclarecer dúvidas e entender conteúdos difíceis. No entanto, seu uso precisa ser equilibrado evitando a dependência dela. O professor é essencial orientando os alunos, estimulando pensamento e acompanhar o desenvolvimento. A IA deve ser usada como ferramenta de apoio, não algo que substitua o aprendizado, pesquisas podem afirmar como diferentes formas de utilização dessa tecnologia influenciam a compreensão do conteúdo e desenvolvimento das habilidades dos estudantes.`
 
 ## Resumo
 
