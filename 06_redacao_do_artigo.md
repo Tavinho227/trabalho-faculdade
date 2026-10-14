@@ -16,7 +16,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Introdução
 
-`A inteligência artificial está cada vez mais presente na educação, principalmente na forma em como os estudantes procuram por informações, tiram dúvidas e realizam atividades. Ferramentas de IA podem ajudar a explicar conteúdos difíceis, organizar informações e facilitar o entendimento de diferentes assuntos. Porém, apesar dessas vantagens também existe a preocupação com a dependência dessa tecnologia e seus efeitos no desenvolvimento do pensamento crítico e na capacidade pessoal de resolver problemas por conta própria. Com isso, esse artigo procura analisar os benefícios e desafios do uso da IA na aprendizagem, com destaque na importância de usar de maneira responsável, sem substituir o esforço dos estudantes e o papel dos professores no ensino.`
+`A inteligência artificial está cada vez mais presente na educação, principalmente na forma em como os estudantes procuram por informações, tiram dúvidas e realizam atividades. Ferramentas de IA podem ajudar a explicar conteúdos difíceis, organizar informações e facilitar o entendimento de diferentes assuntos. Porém, apesar dessas vantagens também existe a preocupação com a dependência dessa tecnologia e seus efeitos no desenvolvimento do pensamento crítico e na capacidade própria de resolver problemas. Com isso, esse artigo procura analisar os benefícios e desafios do uso da IA na aprendizagem, com destaque na importância do uso de maneira responsável, sem substituir o esforço dos estudantes e o papel dos professores.`
 
 ## Metodologia
 
