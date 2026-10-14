@@ -8,7 +8,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 # Título
 
-`[Título claro e coerente com o tema]`
+`Aprendizagem moderna com inteligência artificial: Benefícios, desafios e o papel do professor`
 
 ## Palavras-chave
 
