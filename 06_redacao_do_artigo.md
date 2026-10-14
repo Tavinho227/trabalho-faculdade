@@ -26,7 +26,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ### `Benefícios da inteligência artificial na aprendizagem`
 
-`Os três artigos mostram que a IA pode trazer benefícios para a educação e ajudar os alunos de diferentes maneiras. Barbosa (2023), ao analisar 15 artigos científicos, explica que a IA pode adaptar os conteúdos de acordo com as necessidades de cada estudante, facilitando o aprendizado. Bezerra e outros (2024) também destacam de uma forma mais personalizada, além de contribuir na organização das instituições de ensino. Inácio Teixeira e Silva Filho (2025) Fizeram estudo por meio de um questionário respondido por 96 estudantes, Os resultados mostraram que todos os alunos usavam a ferramenta de IA, e parte deles sentiam dificuldade sem o uso dela. Com isso, percebemos que a IA pode ser uma grande aliada nos estudos, mas ao mesmo tempo pode causar dependência e uma possível piora em absorver o conteúdo.`
+`Os três artigos mostram que a IA pode trazer benefícios para a educação e ajudar os alunos de diferentes maneiras. Barbosa (2023), ao analisar 15 artigos científicos, explica que a IA pode adaptar os conteúdos de acordo com as necessidades de cada estudante, facilitando o aprendizado. Bezerra e outros (2024) também destacam de uma forma mais personalizada, além de contribuir na organização das instituições de ensino. Inácio Teixeira e Silva Filho (2025) Fizeram estudo por meio de um questionário respondido por 96 estudantes, Os resultados mostraram que todos os alunos usavam a ferramenta de IA, e parte deles sentiam dificuldade sem o uso dela.`
 
 ### `Uso responsável da inteligência artificial e o papel dos professores no aprendizado.`
 
