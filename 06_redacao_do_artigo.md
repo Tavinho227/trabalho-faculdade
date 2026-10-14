@@ -49,6 +49,8 @@ Já Inácio Teixeira e Silva Filho (2025) buscaram entender a opinião dos estud
 
 `BARBOSA, Carlos Roberto de Almeida Corrêa. Transformações no ensino-aprendizagem com o uso da inteligência artificial: revisão sistemática da literatura. RECIMA21 - Revista Científica Multidisciplinar, v. 4, n. 5, e453103, 2023.`
 
+`BEZERRA, Erich Teles et al. O impacto do uso da inteligência artificial nos processos de ensino e aprendizagem. Revista Ibero-Americana de Humanidades, Ciências e Educação (REASE), v. 10, n. 7, p. 1211-1220, 2024.`
+
 ## Checklist
 
 * [ ] A introdução termina com o objetivo.
