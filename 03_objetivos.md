@@ -6,7 +6,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-A influência da Inteligência artificial nos estudos modernos.
+A influência da Inteligência artificial no ensino moderno.
 
 ## Objetivo geral
 
@@ -14,9 +14,9 @@ Analisar como a Inteligência artificial funciona e facilita o ensino moderno, c
 
 ## Objetivos específicos
 
-1. Compreender como funciona 
-2. Como surgiu a IA
-3. Como isso afeta o ensino
+1. Entender o uso da IA pelos estudantes
+2. Importância dos professores
+3. Como isso afeta o ensino aprendizagem
 4. Uso ético da IA
 
 ## Quadro de alinhamento
