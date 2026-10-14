@@ -56,4 +56,4 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| Otavio Araújo, Richard Otavio | Escolha do tema |
+| Otávio Araújo, Richard Otavio | Escolha do tema |
