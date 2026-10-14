@@ -35,7 +35,7 @@ Já Inácio Teixeira e Silva Filho (2025) buscaram entender a opinião dos estud
 
 ### Síntese crítica
 
-`Os três artigos chegam a conclusão do potencial positivo da inteligência artificial para facilitar estudos e adaptar a aprendizagem com base nas necessidades dos alunos. Porém, os trabalhos também mostram que os benefícios dependem da forma como é usada essa ferramenta de IA. Mesmo com diferenças de estudo, é reforçado a importância do professor na orientação com os alunos e o uso ético da ferramenta. Ainda assim é necessário mais pesquisas de campo com número maior de alunos e acompanhados com o passar do tempo para entender melhor os efeitos da inteligência artificial na aprendizagem dos alunos.`
+`É mostrado nos 3 artigos que a inteligência artificial pode ajudar bastante na educação, principalmente na hora do estudo, tirar dúvidas e entender melhor os conteúdos. Também mostram que existem alguns problemas, como acabar dependendo demais da tecnologia, a preocupação com os dados pessoais e o fato de que nem todos têm acesso a essa tecnologia. Além disso, a IA deve ajudar tanto os alunos quanto os professores, mas não substituir o papel deles. Ainda é preciso entender melhor como ela influencia o aprendizado na prática e com o passar do tempo. Com isso, a inteligência artificial pode ser muito útil nos estudos, desde que seja usada da maneira correta e consciente, para que tanto os alunos, quantos professores não dependam e fiquem reféns dessa tecnologia, mas sim a usem como um auxilio em seus estudos e trabalhos.`
 
 ## Considerações finais
 
