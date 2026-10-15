@@ -211,7 +211,7 @@ ZAWACKI-RICHTER, O.; MARÍN, V. I.; BOND, M.; GOUVERNEUR, F. Systematic Review o
 
 ### Objetivo do estudo
 
-`O objetivo foi entender como os estudantes usam a inteligência artificial para ajudar nos estudos, de que forma ela facilita o aprendizado. Além disso, busca compreender se o uso dessas ferramentas pode ajudar os alunos a aprender mais ou acabar fazendo com que dependam demais da tecnologia para pensar e realizar seus trabalhos`
+`O objetivo foi entender como os estudantes usam a inteligência artificial para ajudar nos estudos, de que forma ela facilita o aprendizado. Além disso, busca compreender se o uso dessas ferramentas pode ajudar os alunos a aprender mais ou acabar fazendo com que dependam demais da tecnologia para pensar e realizar seus trabalhos.`
 
 ### Método utilizado
 
