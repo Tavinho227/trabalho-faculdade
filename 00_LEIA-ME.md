@@ -15,7 +15,7 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `Análise e Desenvolvimento de Sistemas. `
+- Curso e disciplina: `Análise e Desenvolvimento de Sistemas. Design Profissional`
 - Professor ou orientador: `Isabella Luiza dos Santos Souza`
 - Grupo: `delta`
 - Integrantes: `Otávio Araújo Gonçalves Ribeiro. Richard Otavio dos Santos Salgado`
