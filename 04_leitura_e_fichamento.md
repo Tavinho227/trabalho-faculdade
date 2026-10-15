@@ -301,7 +301,7 @@ Willame Nogueira de Sena, Diane Jéssica Morais Amorim, INTELIGÊNCIA ARTIFICIAL
 
 ### Comentário crítico
 
-`Na minha opinião, a inteligência artificial pode ajudar bastante nos estudos, principalmente quando temos dúvidas ou dificuldade para entender alguma coisa. Mas acredito que não devemos usar a IA para fazer tudo por nós, porque, dessa forma, acabamos deixando de aprender por conta própria.  Nem todos os estudantes têm acesso à internet ou a essas ferramentas. Por isso, acho que a inteligência artificial pode trazer muitos benefícios para a educação,`
+`Na minha opinião, a inteligência artificial pode ajudar bastante nos estudos, principalmente quando temos dúvidas ou dificuldade para entender alguma coisa. Mas acredito que não devemos usar a IA para fazer tudo por nós, porque, dessa forma, acabamos deixando de aprender por conta própria.  Nem todos os estudantes têm acesso à internet ou a essas ferramentas. Por isso, acho que a inteligência artificial pode trazer muitos benefícios para a educação.`
 
 ### Citação literal opcional
 
