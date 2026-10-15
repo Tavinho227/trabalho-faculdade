@@ -15,11 +15,11 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
-- Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
+- Curso e disciplina: `Análise e Desenvolvimento de Sistemas. `
+- Professor ou orientador: `Isabella Luiza dos Santos Souza`
+- Grupo: `delta`
+- Integrantes: `Otávio Araújo Gonçalves Ribeiro. Richard Otavio dos Santos Salgado`
+- Data de início: `09/10/2026`
 
 
 
