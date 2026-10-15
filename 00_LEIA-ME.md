@@ -17,7 +17,7 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 - Curso e disciplina: `Análise e Desenvolvimento de Sistemas. Design Profissional`
 - Professor ou orientador: `Isabella Luiza dos Santos Souza`
-- Grupo: `delta`
+- Grupo: `[preencher]`
 - Integrantes: `Otávio Araújo Gonçalves Ribeiro. Richard Otavio dos Santos Salgado`
 - Data de início: `09/10/2026`
 
