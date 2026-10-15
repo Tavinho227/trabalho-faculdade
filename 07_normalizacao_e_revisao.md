@@ -8,7 +8,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 * Título do artigo: `Aprendizagem moderna com inteligência artificial: Benefícios, desafios e o papel do professor`
 * Versão revisada: `1`
-* Data: `13/10/2026`
+* Data: `14/10/2026`
 * Responsável pela conferência final: `Otávio Araújo, Richard Otavio`
 
 ## Revisão científica
